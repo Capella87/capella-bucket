@@ -8,7 +8,7 @@ Scoop package manager is required. See [Scoop](https://scoop.sh/) for installati
 
 Then, add this bucket to scoop:
 ```powershell
-scoop bucket add Capella87_scoop-bucket https://github.com/Capella87/scoop-bucket
+scoop bucket add Capella87_scoop-bucket https://github.com/Capella87/capella-bucket
 ```
 
 ## Catalogs
