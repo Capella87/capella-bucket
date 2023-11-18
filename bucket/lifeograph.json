@@ -16,7 +16,9 @@
     "shortcuts": [
         [
             "exe\\lifeograph.exe",
-            "Lifeograph"
+            "Lifeograph",
+            "",
+            "share\\lifeograph\\net.sourceforge.Lifeograph.ico"
         ]
     ],
     "checkver": {
