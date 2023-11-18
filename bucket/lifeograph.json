@@ -11,7 +11,7 @@
         }
     },
     "bin": "exe\\lifeograph.exe",
-    "extract_dir": "lifeograph-win-x86_64-$version",
+    "extract_dir": "lifeograph-win-x86_64-2.0.3",
     "persist": "share\\lifeograph\\diaries",
     "shortcuts": [
         [
@@ -26,9 +26,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://downloads.sourceforge.net/project/lifeograph/lifeograph-win-x86_64-$version.zip",
-                "extract_dir": "lifeograph-win-x86_64-$version"
+                "url": "https://downloads.sourceforge.net/project/lifeograph/lifeograph-win-x86_64-$version.zip"
             }
-        }
+        },
+        "extract_dir": "lifeograph-win-x86_64-$version"
     }
 }
