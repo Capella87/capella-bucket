@@ -10,7 +10,6 @@
             "hash": "d046d62476a7d8a016c7255dc0633deb6c59078392971b0dbf43cd55d8b8ada6"
         }
     },
-    "extract_dir": "Unicodia-w64-2.3.2",
     "bin": "Unicodia.exe",
     "shortcuts": [
         [
@@ -26,7 +25,6 @@
             "64bit": {
                 "url": "https://github.com/Mercury13/unicodia/releases/download/v$version/Unicodia-w64-$version.7z"
             }
-        },
-        "extract_dir": "Unicodia-w64-$version"
+        }
     }
 }
