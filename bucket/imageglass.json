@@ -3,7 +3,10 @@
     "description": "A lightweight, versatile image viewer",
     "homepage": "https://imageglass.org/",
     "license": "https://github.com/d2phap/ImageGlass/blob/develop/LICENSE",
-    "notes": "If this app does not work maybe you need to clean '$dir\\igconfig.json' file or clear default themes in '$dir\\Themes' directory.",
+    "notes": [
+        "If this app does not work maybe you need to clean '$dir\\igconfig.json' file or clear default themes in '$dir\\Themes' directory.",
+        "To access EXIF data, you need to install 'exiftool' and 'ExifGlass' packages."
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/d2phap/ImageGlass/releases/download/9.0.7.1125/ImageGlass_9.0.7.1125_x64.zip",
@@ -18,7 +21,8 @@
     },
     "suggest": {
         "dotnet": "main/dotnet-sdk",
-        "exiftool": "main/exiftool"
+        "exiftool": "main/exiftool",
+        "exifglass": "capella-bucket/exifglass"
     },
     "pre_install": "new-item -type file -force $dir\\igconfig.json",
     "post_install": [
