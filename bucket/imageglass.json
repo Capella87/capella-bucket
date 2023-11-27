@@ -20,7 +20,7 @@
         "dotnet": "main/dotnet-sdk",
         "exiftool": "main/exiftool"
     },
-    "pre_install": "",
+    "pre_install": "new-item -type file -force $dir\\igconfig.json",
     "post_install": [
         "",
         ""
