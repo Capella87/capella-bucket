@@ -14,8 +14,23 @@ Then, add this bucket to scoop:
 scoop bucket add capella-bucket https://github.com/Capella87/capella-bucket
 ```
 
+## Troubleshooting
+If you have any problems using apps in this bucket, please open an issue.
+
+Sometimes, I amend a commit to fix some issues. If you have any problems using apps in this bucket, please go to this bucket directory and run the following command to update this bucket:
+```powershell
+git reset --soft origin/master
+git pull origin master --force
+```
+
 ## Catalogs
 
 * CuteMaze
+* ImageGlass
 * Libarchive
 * Lifeograph
+* Musikcube
+* noMeiryoUI
+* Simsu
+* Tetzle
+* Unicodia
