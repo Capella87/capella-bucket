@@ -26,6 +26,7 @@ git pull origin master --force
 ## Catalogs
 
 * CuteMaze
+* ExifGlass (Tool of ImageGlass, But standalone)
 * ImageGlass
 * Libarchive
 * Lifeograph
