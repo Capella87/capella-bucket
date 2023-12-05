@@ -35,5 +35,6 @@ git pull origin master --force
 * noMeiryoUI
 * OpenSSL
 * Simsu
+* Tanglet
 * Tetzle
 * Unicodia
