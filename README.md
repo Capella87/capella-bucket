@@ -30,8 +30,10 @@ git pull origin master --force
 * ImageGlass
 * Libarchive
 * Lifeograph
+* LotAdjuster
 * Musikcube
 * noMeiryoUI
+* OpenSSL
 * Simsu
 * Tetzle
 * Unicodia
