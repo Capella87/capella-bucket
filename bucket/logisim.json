@@ -10,7 +10,7 @@
         ]
     },
     "url": [
-        "https://sourceforge.net/projects/circuit/files/2.7.x/2.7.1/logisim-generic-2.7.1.jar/download",
+        "https://sourceforge.net/projects/circuit/files/2.7.x/2.7.1/logisim-generic-2.7.1.jar",
         "https://raw.githubusercontent.com/lawrancej/logisim/master/www/root/logisim.ico"
     ],
     "hash": [
@@ -35,7 +35,7 @@
     },
     "autoupdate": {
         "url": [
-            "https://sourceforge.net/projects/circuit/files/2.7.x/2.7.1/logisim-generic-$version.jar/download",
+            "https://sourceforge.net/projects/circuit/files/2.7.x/2.7.1/logisim-generic-$version.jar",
             "https://raw.githubusercontent.com/lawrancej/logisim/master/www/root/logisim.ico"
         ]
     }
