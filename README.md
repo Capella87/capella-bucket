@@ -30,10 +30,12 @@ git pull origin master --force
 * ImageGlass
 * Libarchive
 * Lifeograph
+* Logisim-evolution
 * LotAdjuster
 * Musikcube
 * noMeiryoUI
 * OpenSSL
+* Raptor
 * Simsu
 * Tanglet
 * Tetzle
