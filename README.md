@@ -30,6 +30,7 @@ git pull origin master --force
 * ImageGlass
 * Libarchive
 * Lifeograph
+* Logisim
 * Logisim-evolution
 * LotAdjuster
 * Musikcube
