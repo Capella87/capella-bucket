@@ -24,7 +24,7 @@
         "exiftool": "main/exiftool",
         "exifglass": "capella-bucket/exifglass"
     },
-    "pre_install": "new-item -type file -force $dir\\igconfig.json",
+    "pre_install": "New-Item -Type File $dir\\igconfig.json",
     "post_install": [
         "",
         ""
