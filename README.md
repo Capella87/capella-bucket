@@ -35,9 +35,15 @@ git pull origin master --force
 * LotAdjuster
 * Musikcube
 * noMeiryoUI
-* OpenSSL
+* OpenSSL 3.2.X (Current)
+* OpenSSL 3.2.X (Current, Light)
+* OpenSSL 3.0.X (LTS)
+* OpenSSL 3.0.X (LTS, Light)
+* OpenSSL 1.1.1 (Old LTS)
+* OpenSSL 1.1.1 (Old LTS, Light)
 * Raptor
 * Simsu
 * Tanglet
 * Tetzle
 * Unicodia
+* Zim
