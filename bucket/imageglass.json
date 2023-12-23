@@ -24,7 +24,10 @@
         "exiftool": "main/exiftool",
         "exifglass": "capella-bucket/exifglass"
     },
-    "pre_install": "New-Item -Type File $dir\\igconfig.json",
+    "pre_install": [
+        "$configFileExists = Test-Path $dir\\igconfig.json",
+        "if (-not $configFileExists) { New-Item -Type File -Path $dir -Name igconfig.json }"
+    ],
     "post_install": [
         "",
         ""
