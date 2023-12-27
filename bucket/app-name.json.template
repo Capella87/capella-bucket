@@ -6,7 +6,9 @@
     "license": "",
     "notes": "",
     "depends": "",
-    "suggest": "",
+    "suggest": {
+        "": ""
+    }
     "architecture": {
         "64bit": {
             "url": "",
@@ -63,7 +65,8 @@
     ],
     "checkver": {
         "url": "",
-        "regex": ""
+        "regex": "([\\d.]+)",
+        "reverse": false
     },
     "autoupdate": {
         "architecture": {

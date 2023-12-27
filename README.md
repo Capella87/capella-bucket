@@ -27,6 +27,7 @@ git pull origin master --force
 
 * CuteMaze
 * ExifGlass (Tool of ImageGlass, But standalone)
+* Gottet
 * ImageGlass
 * Libarchive
 * Lifeograph
