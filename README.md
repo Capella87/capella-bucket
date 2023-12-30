@@ -26,6 +26,7 @@ git pull origin master --force
 ## Catalogs
 
 * CuteMaze
+* Digital
 * ExifGlass (Tool of ImageGlass, But standalone)
 * Gottet
 * ImageGlass
