@@ -30,6 +30,7 @@ git pull origin master --force
 * Digital
 * ExifGlass (Tool of ImageGlass, But standalone)
 * Gottet
+* HPK (HPK archiver for Haemimont Engine game files)
 * ImageGlass
 * Libarchive
 * Lifeograph
