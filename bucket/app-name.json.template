@@ -4,11 +4,14 @@
     "description": "",
     "homepage": "",
     "license": "",
-    "notes": "",
+    "notes": [
+        "",
+        "Blank for newline"
+    ],
     "depends": "",
     "suggest": {
-        "": ""
-    }
+        "name": "bucket/manifest"
+    },
     "architecture": {
         "64bit": {
             "url": "",
