@@ -26,6 +26,7 @@ git pull origin master --force
 ## Catalogs
 
 * Advanced Genie Editor (Tool for Age of Empires II)
+* AirPodsDesktop
 * BLEConsole
 * CuteMaze
 * Digital
