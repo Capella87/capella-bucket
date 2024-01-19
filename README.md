@@ -28,6 +28,7 @@ git pull origin master --force
 * Advanced Genie Editor (Tool for Age of Empires II)
 * AirPodsDesktop
 * BLEConsole
+* Connectagram
 * CuteMaze
 * Digital
 * ExifGlass (Tool of ImageGlass, But standalone)
