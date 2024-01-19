@@ -47,6 +47,7 @@ git pull origin master --force
 * OpenSSL 3.0.X (LTS, Light)
 * OpenSSL 1.1.1 (Old LTS)
 * OpenSSL 1.1.1 (Old LTS, Light)
+* Peg-E
 * PySolFC (PySol Fan Club Edition)
 * Raptor
 * Simsu
