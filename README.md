@@ -52,6 +52,7 @@ git pull origin master --force
 * PySolFC (PySol Fan Club Edition)
 * Raptor
 * Simsu
+* SQLite3MultipleCiphers (Encryption support for SQLite3)
 * Tanglet
 * Tetzle
 * Unicodia
