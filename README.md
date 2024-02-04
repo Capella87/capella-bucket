@@ -2,7 +2,7 @@
 
 [![Tests](https://github.com/Capella87/capella-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Capella87/capella-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/Capella87/capella-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Capella87/capella-bucket/actions/workflows/excavator.yml) [![License](https://img.shields.io/badge/license-unlicense-blue)](./LICENSE)
 
-This bucket contains apps that are not in major Scoop buckets and self-developed apps.
+This bucket contains apps that are missing in major Scoop buckets and self-developed apps.
 
 Because of autoupdate feature, Actions are regularly triggered to fetch recently updated apps in this bucket automatically every 4 hours.
 
@@ -33,13 +33,14 @@ git pull origin master --force
 * Digital
 * ExifGlass (Tool of ImageGlass, But standalone)
 * Gottet
+* Hexalate (Color matching game)
 * HPK (HPK archiver for Haemimont Engine game files)
 * ImageGlass
 * Libarchive
 * Lifeograph
 * Logisim
 * Logisim-evolution
-* LotAdjuster
+* LotAdjuster (Map editor for The Sims 2)
 * Musikcube
 * noMeiryoUI
 * OpenSSL 3.2.X (Current)
