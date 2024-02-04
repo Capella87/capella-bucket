@@ -52,6 +52,7 @@ git pull origin master --force
 * Pororoca (Postman Replacement)
 * PySolFC (PySol Fan Club Edition)
 * Raptor
+* SimPe (Data editor for The Sims 2)
 * Simsu
 * SQLite3MultipleCiphers (Encryption support for SQLite3)
 * Tanglet
