@@ -31,6 +31,7 @@ git pull origin master --force
 * Connectagram
 * CuteMaze
 * Digital
+* Dummy DLL Generator
 * ExifGlass (Tool of ImageGlass, But standalone)
 * Gottet
 * Hexalate (Color matching game)
