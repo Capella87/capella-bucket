@@ -15,7 +15,7 @@
     },
     "post_install": [
         "Remove-Item $dir\\Uninstall.exe.nsis",
-        "Remove-Item \"$dir\\`$PLUGINSDIR\""
+        "Remove-Item \"$dir\\`$PLUGINSDIR\" -Recurse"
     ],
     "bin": [
         "gracket-text.exe",
