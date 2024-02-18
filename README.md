@@ -53,6 +53,7 @@ git pull origin master --force
 * Peg-E
 * Pororoca (Postman Replacement)
 * PySolFC (PySol Fan Club Edition)
+* Racket (PLT Scheme)
 * Raptor
 * SimPe (Data editor for The Sims 2)
 * Simsu

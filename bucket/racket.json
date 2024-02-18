@@ -1,0 +1,66 @@
+{
+    "version": "8.12",
+    "description": "A general-purpose, feature-rich programming language developed from Scheme Lisp, also the family of the core language and its dialects. It includes an extensive macro system for creating and implementing language constructs and dialects; eventspaces and custodians for resource management; units, modules and classes for programming in the large; paritial continuation; the first contract system for higher-order functions, and more.",
+    "homepage": "https://racket-lang.org",
+    "license": "LGPL-3.0-or-later",
+    "architecture": {
+        "64bit": {
+            "url": "https://mirror.racket-lang.org/installers/8.12/racket-8.12-x86_64-win32.exe#/dl.7z",
+            "hash": "c2c594e8d3f81db4b6a9340d5cb1903b2c9e622179ae4955d353bd54c5e3af9c"
+        },
+        "32bit": {
+            "url": "https://mirror.racket-lang.org/installers/8.12/racket-8.12-i386-win32.exe#/dl.7z",
+            "hash": "ffe25be6960907b809d8ba333d354b8f340e854d8e4a7d72d10811177c565402"
+        }
+    },
+    "post_install": [
+        "Remove-Item $dir\\Uninstall.exe.nsis",
+        "Remove-Item $dir\\`$PLUGINSDIR"
+    ],
+    "bin": [
+        "gracket-text.exe",
+        "mred-text.exe",
+        "mzscheme.exe",
+        "pdf-slatex.exe",
+        "racket.exe",
+        "raco.exe",
+        "scribble.exe",
+        "slatex.exe"
+    ],
+    "shortcuts": [
+        [
+            "GRacket.exe",
+            "GRacket"
+        ],
+        [
+            "DrRacket.exe",
+            "DrRacket"
+        ],
+        [
+            "PLT Games.exe",
+            "PLT Games"
+        ],
+        [
+            "Slideshow.exe",
+            "Slideshow"
+        ]
+    ],
+    "checkver": {
+        "url": "https://download.racket-lang.org/",
+        "regex": "Version ([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://mirror.racket-lang.org/installers/$version/racket-$version-x86_64-win32.exe#/dl.7z"
+            },
+            "32bit": {
+                "url": "https://mirror.racket-lang.org/installers/$version/racket-$version-i386-win32.exe#/dl.7z"
+            }
+        },
+        "hash": {
+            "url": "https://download.racket-lang.org/releases/$version/",
+            "regex": "$basename[\\s\\S]*?\"checksum\">$sha1</span>"
+        }
+    }
+}
