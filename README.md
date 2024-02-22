@@ -39,6 +39,7 @@ git pull origin master --force
 * ImageGlass
 * Libarchive
 * Lifeograph
+* Locale Remulator (Locale Emulator alternative for 64-bit programs)
 * Logisim
 * Logisim-evolution
 * LotAdjuster (Map editor for The Sims 2)
