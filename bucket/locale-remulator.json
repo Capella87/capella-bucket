@@ -20,10 +20,17 @@
             "extract_dir": "Locale_Remulator.1.5.3-beta.1"
         }
     },
-    "pre_install": [
-        "$configFile = Test-Path -Path \"$dir\\LRConfig.xml\"",
-        "if ($configFile -eq $false) { New-Item -Path \"$dir\\LRConfig.xml\" -ItemType File }"
-    ],
+    "installer": {
+        "script": [
+            "$configFile = Test-Path -Path \"$dir\\LRConfig.xml\"",
+            "if ($configFile -eq $false)",
+            "{",
+            "    $process = Start-Process -FilePath \"$dir\\LREditor.exe\" -ArgumentList \"/S\" -Passthru",
+            "    Start-Sleep -Seconds 2",
+            "    Stop-Process -Id $process.Id",
+            "}"
+        ]
+    },
     "bin": [
         "LREditor.exe",
         "LRInstaller.exe",
