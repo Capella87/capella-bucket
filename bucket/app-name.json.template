@@ -68,7 +68,7 @@
     ],
     "checkver": {
         "url": "",
-        "regex": "([\\d.]+)",
+        "regex": "([\\d.]+) or tag/v([\\w\\.-]+) for SemVer",
         "reverse": false
     },
     "autoupdate": {
