@@ -33,6 +33,7 @@ git pull origin master --force
 * Digital
 * Dummy DLL Generator
 * ExifGlass (Tool of ImageGlass, But standalone)
+* FocusWriter
 * Gottet
 * Hexalate (Color matching game)
 * HPK (HPK archiver for Haemimont Engine game files)

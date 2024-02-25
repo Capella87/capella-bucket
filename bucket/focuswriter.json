@@ -1,0 +1,32 @@
+{
+    "version": "1.8.6",
+    "description": "A simple, distraction-free writing environment.",
+    "homepage": "https://gottcode.org/focuseditor/",
+    "license": "GPL-3.0",
+    "notes": "",
+    "architecture": {
+        "64bit": {
+            "url": "https://gottcode.org/focuswriter/download/?os=windowsportable#/FocusWriter_1.8.6.zip",
+            "hash": "39d1e7563b000e2dc5b7e11b4d553de6eeea1f4ac9da4475906491fb8617eca6"
+        }
+    },
+    "extract_to": "",
+    "bin": "FocusWriter.exe",
+    "shortcuts": [
+        [
+            "FocusWriter.exe",
+            "FocusWriter"
+        ]
+    ],
+    "persist": "Data",
+    "checkver": {
+        "github": "https://github.com/gottcode/focuswriter"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gottcode.org/focuswriter/download/?os=windowsportable#/FocusWriter_$version.zip"
+            }
+        }
+    }
+}
