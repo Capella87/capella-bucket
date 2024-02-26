@@ -48,6 +48,7 @@ git pull origin master --force
 * LotAdjuster (Map editor for The Sims 2)
 * Musikcube
 * noMeiryoUI
+* NoVideo_sRGB (Color calibration tool for NVIDIA GPU)
 * OpenSSL 3.2.X (Current)
 * OpenSSL 3.2.X (Current, Light)
 * OpenSSL 3.0.X (LTS)
