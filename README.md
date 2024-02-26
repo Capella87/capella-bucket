@@ -4,7 +4,9 @@
 
 This bucket contains apps that are missing in major Scoop buckets and self-developed apps.
 
-Because of autoupdate feature, Actions are regularly triggered to fetch recently updated apps in this bucket automatically every 4 hours.
+Currently focus on providing apps for gaming such as mod tool.
+
+Because of autoupdate feature, Actions are regularly triggered to fetch recently updated apps in this bucket automatically every 4 hours with GitHub Actions.
 
 ## Installation
 Scoop package manager is required. See [Scoop](https://scoop.sh/) for installation.
