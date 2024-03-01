@@ -37,6 +37,7 @@ git pull origin master --force
 * ExifGlass (Tool of ImageGlass, But standalone)
 * FocusWriter
 * Gottet
+* HaRepacker (MapleStory file editor)
 * Hexalate (Color matching game)
 * HPK (HPK archiver for Haemimont Engine game files)
 * ImageGlass
