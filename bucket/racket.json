@@ -3,6 +3,9 @@
     "description": "A general-purpose, feature-rich programming language developed from Scheme Lisp, also the family of the core language and its dialects. It includes an extensive macro system for creating and implementing language constructs and dialects; eventspaces and custodians for resource management; units, modules and classes for programming in the large; paritial continuation; the first contract system for higher-order functions, and more.",
     "homepage": "https://racket-lang.org",
     "license": "LGPL-3.0-or-later",
+    "notes": [
+        "Racket preferences are in AppData/Roaming/Racket"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://mirror.racket-lang.org/installers/8.12/racket-8.12-x86_64-win32.exe#/dl.7z",
