@@ -57,6 +57,7 @@ git pull origin master --force
 * OpenSSL 1.1.1 (Old LTS)
 * OpenSSL 1.1.1 (Old LTS, Light)
 * Peg-E
+* Poetry (New Python package manager)
 * Pororoca (Postman Replacement)
 * PySolFC (PySol Fan Club Edition)
 * Racket (PLT Scheme)
