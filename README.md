@@ -41,6 +41,7 @@ git pull origin master --force
 * Hexalate (Color matching game)
 * HPK (HPK archiver for Haemimont Engine game files)
 * ImageGlass
+* Kapow (Punch clock program for tracking work hours)
 * Libarchive
 * Lifeograph
 * Locale Remulator (Locale Emulator alternative for 64-bit programs)
