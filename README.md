@@ -70,4 +70,5 @@ git pull origin master --force
 * Tanglet
 * Tetzle
 * Unicodia
+* Vgmstream (A library for playback of various streamed audio formats used in video games)
 * Zim
