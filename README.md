@@ -50,6 +50,7 @@ git pull origin master --force
 * Musikcube
 * noMeiryoUI
 * NoVideo_sRGB (Color calibration tool for NVIDIA GPU)
+* NovProg (NaNoWriMo Progress Meter)
 * OpenSSL 3.2.X (Current)
 * OpenSSL 3.2.X (Current, Light)
 * OpenSSL 3.0.X (LTS)
