@@ -49,6 +49,7 @@ git pull origin master --force
 * Logisim-evolution
 * LotAdjuster (Map editor for The Sims 2)
 * LRCGET (Lyrics downloader)
+* MP3Gain (MP3 volume normalizer)
 * Musikcube
 * noMeiryoUI
 * NoVideo_sRGB (Color calibration tool for NVIDIA GPU)
