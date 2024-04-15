@@ -1,0 +1,58 @@
+{
+    "version": "2.82",
+    "description": "CLI QuickTime AAC/ALAC encoder",
+    "homepage": "https://github.com/nu774/qaac",
+    "license": "Public Domain",
+    "notes": [
+        "To use QAAC, you must either install iTunes via installer (Not Microsoft Store version) or copy related files to QTFiles or QTFiles64 (x64).",
+        "You can check out more details and download files at https://github.com/AnimMouse/QTFiles",
+        "",
+        "Some extra files might needed to use specific features. See https://github.com/nu774/qaac/wiki/Installation"
+    ],
+    "suggest": {
+        "wavpack": "main/wavpack",
+        "flac": "main/flac",
+        "libsndfile": "extras/libsndfile",
+        "tak": "extras/tak"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nu774/qaac/releases/download/v2.82/qaac_2.82.zip",
+            "hash": "f598be1cca7307a10a1d23dc8e81de5c17d29305703ecda0ffe62d64828fa1b4",
+            "extract_dir": "qaac_2.82/x64",
+            "bin": [
+                "refalac64.exe",
+                "qaac64.exe"
+            ]
+        },
+        "32bit": {
+            "url": "https://github.com/nu774/qaac/releases/download/v2.82/qaac_2.82.zip",
+            "hash": "f598be1cca7307a10a1d23dc8e81de5c17d29305703ecda0ffe62d64828fa1b4",
+            "extract_dir": "qaac_2.82/x86",
+            "bin": [
+                "refalac.exe",
+                "qaac.exe"
+            ]
+        }
+    },
+    "persist": [
+        "QTFiles64",
+        "QTFiles"
+    ],
+    "checkver": {
+        "github": "https://github.com/nu774/qaac",
+        "regex": "v([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/nu774/qaac/releases/download/v$version/qaac_$version.zip",
+                "extract_dir": "qaac_$version/x64"
+            },
+            "32bit": {
+                "url": "https://github.com/nu774/qaac/releases/download/v$version/qaac_$version.zip",
+                "extract_dir": "qaac_$version/x86"
+            }
+        }
+    }
+}

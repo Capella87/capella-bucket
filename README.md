@@ -64,6 +64,7 @@ git pull origin master --force
 * Poetry (New Python package manager)
 * Pororoca (Postman Replacement)
 * PySolFC (PySol Fan Club Edition)
+* Qaac (AAC/ALAC encoder CLI frontend)
 * Racket (PLT Scheme)
 * Raptor
 * SimPe (Data editor for The Sims 2)
