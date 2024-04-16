@@ -36,6 +36,7 @@ git pull origin master --force
 * Dummy DLL Generator
 * ExifGlass (Tool of ImageGlass, But standalone)
 * FocusWriter
+* Garnet (Cache store faster than Redis)
 * Gottet
 * HaRepacker (MapleStory file editor)
 * Hexalate (Color matching game)
