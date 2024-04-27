@@ -43,6 +43,7 @@ git pull origin master --force
 * HPK (HPK archiver for Haemimont Engine game files)
 * ImageGlass
 * Kapow (Punch clock program for tracking work hours)
+* Kiota (OpenAPI HTTP client code generator)
 * Libarchive
 * Lifeograph
 * Locale Remulator (Locale Emulator alternative for 64-bit programs)
