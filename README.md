@@ -53,6 +53,7 @@ git pull origin master --force
 * LRCGET (Lyrics downloader)
 * MP3Gain (MP3 volume normalizer)
 * Musikcube
+* NClass (UML editor written in C#)
 * noMeiryoUI
 * NoVideo_sRGB (Color calibration tool for NVIDIA GPU)
 * NovProg (NaNoWriMo Progress Meter)
