@@ -35,9 +35,10 @@
     ],
     "persist": [
         "igconfig.json",
+        "Themes",
         "ThumbnailCache",
-        "WebUIData",
-        "Themes"
+        "WebView2_Runtime",
+        "WebUIData"
     ],
     "checkver": {
         "github": "https://github.com/d2phap/ImageGlass",
