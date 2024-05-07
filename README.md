@@ -74,6 +74,7 @@ git pull origin master --force
 * SDL2 (Simple DirectMedia Layer)
 * SDL2_image
 * SDL2_mixer
+* SDL2_ttf
 * SimPe (Data editor for The Sims 2)
 * Simsu
 * SQLite3MultipleCiphers (Encryption support for SQLite3)
