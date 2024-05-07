@@ -45,6 +45,7 @@ git pull origin master --force
 * Kapow (Punch clock program for tracking work hours)
 * Kiota (OpenAPI HTTP client code generator)
 * Libarchive
+* Libsndfile (C library for reading and writing files containing sampled sound through one standard library interface)
 * Lifeograph
 * Locale Remulator (Locale Emulator alternative for 64-bit programs)
 * Logisim
