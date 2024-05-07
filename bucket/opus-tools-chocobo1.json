@@ -1,0 +1,27 @@
+{
+    "version": "2024.04.15",
+    "description": "Command-line utilities to encode, inspect, and decode .opus files. Build from Chocobo1.",
+    "homepage": "https://github.com/xiph/opus-tools",
+    "license": "BSD-2-Clause|GPL-2.0-only",
+    "url": "asdf",
+    "hash": "asdf",
+    "architecture": {
+        "64bit": {
+            "extract_dir": "opus-tools/x64"
+        },
+        "32bit": {
+            "extract_dir": "opus-tools/win32"
+        }
+    },
+    "bin": [
+        "opusdec.exe",
+        "opusenc.exe",
+        "opusinfo.exe"
+    ],
+    "checkver": {
+        "github": "https://github.com/Chocobo1/opus-tools_win32-build"
+    },
+    "autoupdate": {
+        "url": "https://github.com/Chocobo1/opus-tools_win32-build/releases/download/$version/opus-tools.exe#/dl.7z"
+    }
+}
