@@ -73,6 +73,7 @@ git pull origin master --force
 * Raptor
 * SDL2 (Simple DirectMedia Layer)
 * SDL2_image
+* SDL2_mixer
 * SimPe (Data editor for The Sims 2)
 * Simsu
 * SQLite3MultipleCiphers (Encryption support for SQLite3)
