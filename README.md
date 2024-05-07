@@ -72,6 +72,7 @@ git pull origin master --force
 * Qaac (AAC/ALAC encoder CLI frontend)
 * Racket (PLT Scheme)
 * Raptor
+* Raylib (Programming library to enjoy videogames programming)
 * SDL2 (Simple DirectMedia Layer)
 * SDL2_image
 * SDL2_mixer
