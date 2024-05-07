@@ -63,6 +63,7 @@ git pull origin master --force
 * OpenSSL 3.0.X (LTS, Light)
 * OpenSSL 1.1.1 (Old LTS)
 * OpenSSL 1.1.1 (Old LTS, Light)
+* Opus-tools-chocobo1 (Opus codec tools built by Chocobo1)
 * Peg-E
 * Poetry (New Python package manager)
 * Pororoca (Postman Replacement)
@@ -70,6 +71,7 @@ git pull origin master --force
 * Qaac (AAC/ALAC encoder CLI frontend)
 * Racket (PLT Scheme)
 * Raptor
+* SDL2 (Simple DirectMedia Layer)
 * SimPe (Data editor for The Sims 2)
 * Simsu
 * SQLite3MultipleCiphers (Encryption support for SQLite3)
