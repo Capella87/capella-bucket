@@ -73,6 +73,7 @@ git pull origin master --force
 * Racket (PLT Scheme)
 * Raptor
 * Raylib (Programming library to enjoy videogames programming)
+* Raylib-mingw (MinGW build of Raylib)
 * SDL2 (Simple DirectMedia Layer)
 * SDL2_image
 * SDL2_mixer
