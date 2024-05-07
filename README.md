@@ -72,6 +72,7 @@ git pull origin master --force
 * Racket (PLT Scheme)
 * Raptor
 * SDL2 (Simple DirectMedia Layer)
+* SDL2_image
 * SimPe (Data editor for The Sims 2)
 * Simsu
 * SQLite3MultipleCiphers (Encryption support for SQLite3)
