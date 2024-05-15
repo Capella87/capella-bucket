@@ -4,7 +4,7 @@
         "editor.formatOnSave": true
     },
     "powershell.scriptAnalysis.settingsPath": "PSScriptAnalyzerSettings.psd1",
-    "powershell.codeFormatting.preset": "OTBS",
+    "powershell.codeFormatting.preset": "Allman",
     "powershell.codeFormatting.alignPropertyValuePairs": true,
     "powershell.codeFormatting.ignoreOneLineBlock": true,
     "json.schemas": [
