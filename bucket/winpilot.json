@@ -1,5 +1,5 @@
 {
-    "version": "2024.5.19",
+    "version": "2024.5.20",
     "description": "The manic cousin of Microsoft Copilot. You can see resurrected Clippy and it is even useful than the original!",
     "homepage": "https://github.com/builtbybel/Winpilot",
     "license": "MIT",
@@ -7,8 +7,8 @@
         "This software requires WebView2 Runtime to be installed and administrator privileges to run.",
         "You can install WebView2 Runtime from the following link: https://developer.microsoft.com/en-us/microsoft-edge/webview2/"
     ],
-    "url": "https://github.com/builtbybel/Winpilot/releases/download/2024.5.19/Winpilot.zip",
-    "hash": "265bb9ae60e17757b72fa147d4fedcba1ac217ff59f093fd7e8189e1698a0c77",
+    "url": "https://github.com/builtbybel/Winpilot/releases/download/2024.5.20/Winpilot.zip",
+    "hash": "1ee8026ad0deea29dd599d9b61620440b9f809914b8bd0ed05dd88ac05b99ef3",
     "installer": {
         "script": [
             "$settingsExist = Test-Path -Path $dir\\app\\settings.txt",
