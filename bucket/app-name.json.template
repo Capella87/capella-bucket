@@ -71,7 +71,7 @@
         ""
     ],
     "checkver": {
-        "url": "",
+        "url": "For GitHub, all checkver sub-properties are easily replaced by \"github\" property.",
         "regex": "([\\d.]+) or tag/v([\\w\\.-]+) for SemVer",
         "reverse": false
     },
