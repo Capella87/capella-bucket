@@ -1,0 +1,30 @@
+{
+    "version": "16.2.15",
+    "description": "An open-source Java viewer for chemical structures in 3D",
+    "homepage": "https://jmol.sourceforge.io",
+    "license": "LGPL-2.0-only",
+    "notes": "User data of Jmol are located at $HOME/.jmol",
+    "suggest": {
+        "microsoft-jdk": "java/microsoft-jdk",
+        "pov-ray": "extras/pov-ray"
+    },
+    "url": "https://downloads.sourceforge.net/project/jmol/files/Jmol/Version%2016.2/Jmol%2016.2.15/Jmol-16.2.15-binary.zip",
+    "hash": "sha1:4bd1985d94fcdd0ec87ad8955bc9a541bac96b8d",
+    "extract_dir": "jmol-16.2.15",
+    "bin": "jmol.bat",
+    "shortcuts": [
+        [
+            "jmol.bat",
+            "Jmol"
+        ]
+    ],
+    "checkver": {
+        "url": "https://sourceforge.net/projects/jmol/files/",
+        "regex": "Jmol-([\\d.]+)",
+        "reverse": false
+    },
+    "autoupdate": {
+        "url": "https://downloads.sourceforge.net/project/jmol/files/Jmol/Version%20$majorVersion.$minorVersion/Jmol%20$version/Jmol-$version-binary.zip",
+        "extract_dir": "jmol-$version"
+    }
+}
