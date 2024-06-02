@@ -29,6 +29,7 @@ git pull origin master --force
 
 * Advanced Genie Editor (Tool for Age of Empires II)
 * AirPodsDesktop
+* Avogadro 2 (A chemical editor and visualization application)
 * BLEConsole
 * Connectagram
 * CuteMaze
