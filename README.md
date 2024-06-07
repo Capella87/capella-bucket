@@ -76,6 +76,7 @@ git pull origin master --force
 * Raptor
 * Raylib (Programming library to enjoy videogames programming)
 * Raylib-mingw (MinGW build of Raylib)
+* RegCool (Advanced registry editor)
 * SDL2 (Simple DirectMedia Layer)
 * SDL2_image
 * SDL2_mixer

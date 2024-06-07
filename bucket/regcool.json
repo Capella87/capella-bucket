@@ -1,0 +1,41 @@
+{
+    "version": "2.005",
+    "description": "Advanced Registry Editor with Swiss Army Knife features.",
+    "homepage": "https://www.kurtzimmermann.com/regcoolext_en.html",
+    "license": "Freeware",
+    "notes": "This software requires administrator privileges to run.",
+    "architecture": {
+        "64bit": {
+            "url": "https://kurtzimmermann.com/files/RegCoolX64.zip",
+            "hash": "8cc22d74a3bdb571061c2895e3af6f3106840a8b1e9bfa1f6c9d5b6a79f5c81f"
+        },
+        "32bit": {
+            "url": "https://kurtzimmermann.com/files/RegCoolX32.zip",
+            "hash": "248e6b74e6df2a651886ec9fbf27c5b78963a0373dd08a5f45690f16afd04023"
+        }
+    },
+    "post_install": "Remove-Item $dir\\Updater.exe -Force",
+    "bin": "RegCool.exe",
+    "shortcuts": [
+        [
+            "RegCool.exe",
+            "RegCool"
+        ]
+    ],
+    "persist": "Settings",
+    "checkver": {
+        "url": "https://www.majorgeeks.com/files/details/regcool.html",
+        "regex": "RegCool ([\\d.]+)",
+        "reverse": false
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://kurtzimmermann.com/files/RegCoolX64.zip"
+            },
+            "32bit": {
+                "url": "https://kurtzimmermann.com/files/RegCoolX32.zip"
+            }
+        }
+    }
+}
