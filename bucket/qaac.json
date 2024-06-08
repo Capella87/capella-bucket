@@ -21,16 +21,22 @@
         "64bit": {
             "url": "https://github.com/nu774/qaac/releases/download/v2.82/qaac_2.82.zip",
             "hash": "f598be1cca7307a10a1d23dc8e81de5c17d29305703ecda0ffe62d64828fa1b4",
-            "extract_dir": "qaac_2.82/x64",
+            "extract_dir": "qaac_2.82\\x64",
             "bin": [
-                "refalac64.exe",
-                "qaac64.exe"
+                [
+                    "qaac64.exe",
+                    "qaac"
+                ],
+                [
+                    "refalac64.exe",
+                    "refalac"
+                ]
             ]
         },
         "32bit": {
             "url": "https://github.com/nu774/qaac/releases/download/v2.82/qaac_2.82.zip",
             "hash": "f598be1cca7307a10a1d23dc8e81de5c17d29305703ecda0ffe62d64828fa1b4",
-            "extract_dir": "qaac_2.82/x86",
+            "extract_dir": "qaac_2.82\\x86",
             "bin": [
                 "refalac.exe",
                 "qaac.exe"
@@ -41,22 +47,18 @@
         "QTFiles64",
         "QTFiles"
     ],
-    "post_uninstall": [
-        "Remove-Item -Recurse -Force $dir\\qaac_$version"
-    ],
+    "post_uninstall": "Remove-Item -Recurse -Force $dir\\qaac_$version",
     "checkver": {
-        "github": "https://github.com/nu774/qaac",
-        "regex": "v([\\d.]+)"
+        "github": "https://github.com/nu774/qaac"
     },
     "autoupdate": {
+        "url": "https://github.com/nu774/qaac/releases/download/v$version/qaac_$version.zip",
         "architecture": {
             "64bit": {
-                "url": "https://github.com/nu774/qaac/releases/download/v$version/qaac_$version.zip",
-                "extract_dir": "qaac_$version/x64"
+                "extract_dir": "qaac_$version\\x64"
             },
             "32bit": {
-                "url": "https://github.com/nu774/qaac/releases/download/v$version/qaac_$version.zip",
-                "extract_dir": "qaac_$version/x86"
+                "extract_dir": "qaac_$version\\x86"
             }
         }
     }
