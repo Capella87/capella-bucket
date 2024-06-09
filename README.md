@@ -55,6 +55,7 @@ git pull origin master --force
 * LotAdjuster (Map editor for The Sims 2)
 * LRCGET (Lyrics downloader)
 * Lua (5.4.x with MinGW)
+* LuaRocks (Lua package manager)
 * MP3Gain (MP3 volume normalizer)
 * Musikcube
 * NClass (UML editor written in C#)
