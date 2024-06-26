@@ -31,7 +31,6 @@ git pull origin master --force
 * AirPodsDesktop
 * Avogadro 2 (A chemical editor and visualization application)
 * BLEConsole
-* Clipilot (Winpilot without WebView2)
 * Connectagram
 * CuteMaze
 * Digital
