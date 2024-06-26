@@ -21,7 +21,6 @@
     "env_set": {
         "OPENSSL_CONF": "$dir\\bin\\openssl.cfg"
     },
-    "checkver": "Win32 OpenSSL v(1\\.[\\d.\\w]+)\\s+Light<",
     "autoupdate": {
         "architecture": {
             "64bit": {

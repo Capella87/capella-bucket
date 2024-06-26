@@ -67,8 +67,6 @@ git pull origin master --force
 * OpenSSL 3.2.X (Current, Light)
 * OpenSSL 3.0.X (LTS)
 * OpenSSL 3.0.X (LTS, Light)
-* OpenSSL 1.1.1 (Old LTS)
-* OpenSSL 1.1.1 (Old LTS, Light)
 * Opus-tools-chocobo1 (Opus codec tools built by Chocobo1)
 * Peg-E
 * Poetry (New Python package manager)
@@ -95,3 +93,8 @@ git pull origin master --force
 * ViVeTool (Settings tweak tool for Windows 10 20H1 or later)
 * Winpilot (Useful tool with Clippy for Windows 10 and later)
 * Zim
+
+### Deprecated
+
+* OpenSSL 1.1.1 (Old LTS)
+* OpenSSL 1.1.1 (Old LTS, Light)
