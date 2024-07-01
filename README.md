@@ -43,6 +43,7 @@ git pull origin master --force
 * Hexalate (Color matching game)
 * HPK (HPK archiver for Haemimont Engine game files)
 * ImageGlass
+* Jeongganbo-Editor (Jeongganbo notation editor)
 * Jmol (Viewer for 3D chemical structures written in Java)
 * Kapow (Punch clock program for tracking work hours)
 * Kiota (OpenAPI HTTP client code generator)
