@@ -27,6 +27,7 @@ git pull origin master --force
 
 ## Catalogs
 
+* Aaru (Data Preservation Suite)
 * Advanced Genie Editor (Tool for Age of Empires II)
 * AirPodsDesktop
 * Avogadro 2 (A chemical editor and visualization application)
