@@ -20,20 +20,5 @@
     "bin": "bin\\openssl.exe",
     "env_set": {
         "OPENSSL_CONF": "$dir\\bin\\openssl.cfg"
-    },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://slproweb.com/download/Win64OpenSSL-$underscoreVersion.exe"
-            },
-            "32bit": {
-                "url": "https://slproweb.com/download/Win32OpenSSL-$underscoreVersion.exe"
-            }
-        },
-        "hash": {
-            "mode": "json",
-            "jsonpath": "$.files.['$basename'].sha256",
-            "url": "https://raw.githubusercontent.com/slproweb/opensslhashes/master/win32_openssl_hashes.json"
-        }
     }
 }
