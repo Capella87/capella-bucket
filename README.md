@@ -29,40 +29,40 @@ git pull origin master --force
 
 * Aaru (Data Preservation Suite)
 * Advanced Genie Editor (Tool for Age of Empires II)
-* AirPodsDesktop
+* AirPodsDesktop (AirPods desktop user experience enhancement program)
 * Avogadro 2 (A chemical editor and visualization application)
-* BLEConsole
-* Connectagram
-* CuteMaze
-* Digital
+* BLEConsole (Bluetooth Low Energy console)
+* Connectagram (Word unscrambling game)
+* CuteMaze (Maze game)
+* Digital (Circuit simulator)
 * Dummy DLL Generator
 * ExifGlass (Tool of ImageGlass, But standalone)
-* FocusWriter
+* FocusWriter (Distraction-free writing tool)
 * Garnet (Cache store faster than Redis)
-* Gottet
+* Gottet (Tetris clone)z
 * HaRepacker (MapleStory file editor)
 * Hexalate (Color matching game)
 * HPK (HPK archiver for Haemimont Engine game files)
-* ImageGlass
+* ImageGlass (Image viewer)
 * Jeongganbo-Editor (Jeongganbo notation editor)
 * Jmol (Viewer for 3D chemical structures written in Java)
 * Kapow (Punch clock program for tracking work hours)
 * Kiota (OpenAPI HTTP client code generator)
-* Libarchive
+* Libarchive (Compression tool and library)
 * Libsndfile (C library for reading and writing files containing sampled sound through one standard library interface)
-* Lifeograph
+* Lifeograph (Private digital diary)
 * Locale Remulator (Locale Emulator alternative for 64-bit programs)
-* Logisim
-* Logisim-evolution
+* Logisim (Circuit design and simulation tool)
+* Logisim-evolution (Improved version of Logisim)
 * LotAdjuster (Map editor for The Sims 2)
 * LRCGET (Lyrics downloader)
 * Lua (5.4.x with MinGW)
 * Lua (5.1.x)
 * LuaRocks (Lua package manager)
 * MP3Gain (MP3 volume normalizer)
-* Musikcube
+* Musikcube (CLI music player)
 * NClass (UML editor written in C#)
-* noMeiryoUI
+* noMeiryoUI (Meiryo UI font replacement)
 * NoVideo_sRGB (Color calibration tool for NVIDIA GPU)
 * NovProg (NaNoWriMo Progress Meter)
 * Odin (Data-Oriented Programming Language)
@@ -71,13 +71,13 @@ git pull origin master --force
 * OpenSSL 3.0.X (LTS)
 * OpenSSL 3.0.X (LTS, Light)
 * Opus-tools-chocobo1 (Opus codec tools built by Chocobo1)
-* Peg-E
+* Peg-E (Peg solitaire game)
 * Poetry (New Python package manager)
 * Pororoca (Postman Replacement)
 * PySolFC (PySol Fan Club Edition)
 * Qaac (AAC/ALAC encoder CLI frontend)
 * Racket (PLT Scheme)
-* Raptor
+* Raptor (Flowchart-based programming environment)
 * Raylib (Programming library to enjoy videogames programming)
 * Raylib-mingw (MinGW build of Raylib)
 * RegCool (Advanced registry editor)
@@ -86,17 +86,17 @@ git pull origin master --force
 * SDL2_mixer
 * SDL2_ttf
 * SimPe (Data editor for The Sims 2)
-* Simsu
+* Simsu (Basic Sudoku game)
 * SQLite3MultipleCiphers (Encryption support for SQLite3)
-* Tanglet
-* Tetzle
-* Unicodia
+* Tanglet (Word finding game)
+* Tetzle (Jigsaw puzzle game)
+* Unicodia (Unicode character map)
 * USBAsp-flash (Programming tool for Flash memory. Supports CH341A and so on)
 * Vgmstream (A library for playback of various streamed audio formats used in video games)
 * ViVeTool (Settings tweak tool for Windows 10 20H1 or later)
 * Wasmer (WebAssembly runtime)
 * Winpilot (Useful tool with Clippy for Windows 10 and later)
-* Zim
+* Zim (Desktop wiki)
 
 ### Deprecated
 

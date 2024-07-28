@@ -14,7 +14,7 @@
     "suggest": {
         "wavpack": "main/wavpack",
         "flac": "main/flac",
-        "libsndfile": "extras/libsndfile",
+        "libsndfile": "capella-bucket/libsndfile",
         "tak": "extras/tak"
     },
     "architecture": {
