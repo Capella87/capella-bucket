@@ -99,5 +99,4 @@ git pull origin master --force
 * Vgmstream (A library for playback of various streamed audio formats used in video games)
 * ViVeTool (Settings tweak tool for Windows 10 20H1 or later)
 * Wasmer (WebAssembly runtime)
-* Winpilot (Useful tool with Clippy for Windows 10 and later)
 * Zim (Desktop wiki)
