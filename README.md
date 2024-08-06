@@ -39,7 +39,7 @@ git pull origin master --force
 * ExifGlass (Tool of ImageGlass, But standalone)
 * FocusWriter (Distraction-free writing tool)
 * Garnet (Cache store faster than Redis)
-* Gottet (Tetris clone)z
+* Gottet (Tetris clone)
 * HaRepacker (MapleStory file editor)
 * Hexalate (Color matching game)
 * HPK (HPK archiver for Haemimont Engine game files)
@@ -67,6 +67,8 @@ git pull origin master --force
 * NoVideo_sRGB (Color calibration tool for NVIDIA GPU)
 * NovProg (NaNoWriMo Progress Meter)
 * Odin (Data-Oriented Programming Language)
+* OpenSSL 1.1.1 (Old LTS)
+* OpenSSL 1.1.1 (Old LTS, Light)
 * OpenSSL 3.2.X (Current)
 * OpenSSL 3.2.X (Current, Light)
 * OpenSSL 3.0.X (LTS)
@@ -99,8 +101,3 @@ git pull origin master --force
 * Wasmer (WebAssembly runtime)
 * Winpilot (Useful tool with Clippy for Windows 10 and later)
 * Zim (Desktop wiki)
-
-### Deprecated
-
-* OpenSSL 1.1.1 (Old LTS)
-* OpenSSL 1.1.1 (Old LTS, Light)
