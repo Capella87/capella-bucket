@@ -76,6 +76,7 @@ git pull origin master --force
 * Pororoca (Postman Replacement)
 * PySolFC (PySol Fan Club Edition)
 * Qaac (AAC/ALAC encoder CLI frontend)
+* Quicreach (Ping equivalent for QUIC with msquic)
 * Racket (PLT Scheme)
 * Raptor (Flowchart-based programming environment)
 * Raylib (Programming library to enjoy videogames programming)
