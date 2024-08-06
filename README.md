@@ -58,6 +58,7 @@ git pull origin master --force
 * LRCGET (Lyrics downloader)
 * Lua (5.4.x with MinGW)
 * Lua (5.1.x)
+* Lua (5.2.x)
 * LuaRocks (Lua package manager)
 * MP3Gain (MP3 volume normalizer)
 * Musikcube (CLI music player)
