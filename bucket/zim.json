@@ -2,8 +2,7 @@
     "version": "0.75.2",
     "description": "A Desktop Wiki",
     "homepage": "https://zim-wiki.org",
-    "license": "GPL-2.0",
-    "notes": "",
+    "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
             "url": "https://zim-wiki.org/downloads/zim-desktop-wiki-0.75.2-setup-w64_x86.exe#/download.7z",
