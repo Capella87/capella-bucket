@@ -91,6 +91,7 @@ git pull origin master --force
 * SDL2_ttf
 * SimPe (Data editor for The Sims 2)
 * Simsu (Basic Sudoku game)
+* SpiderFire (SpiderMonkey based JavaScript Runtime)
 * SQLite3MultipleCiphers (Encryption support for SQLite3)
 * Tanglet (Word finding game)
 * Tetzle (Jigsaw puzzle game)
