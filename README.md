@@ -98,6 +98,7 @@ git pull origin master --force
 * Unicodia (Unicode character map)
 * USBAsp-flash (Programming tool for Flash memory. Supports CH341A and so on)
 * Vgmstream (A library for playback of various streamed audio formats used in video games)
+* Vim (Vi IMproved)
 * ViVeTool (Settings tweak tool for Windows 10 20H1 or later)
 * Wasmer (WebAssembly runtime)
 * xd-AntiSpy (Bloatware removal tool)
