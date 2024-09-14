@@ -96,7 +96,8 @@
         ],
         [
             "vimtutor.bat",
-            "vimtutor"
+            "vimtutor",
+            "-console"
         ],
         "xxd.exe"
     ],
