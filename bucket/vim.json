@@ -3,7 +3,12 @@
     "description": "A highly configurable text editor",
     "homepage": "https://www.vim.org",
     "license": "Vim",
-    "notes": "Add gVim as a context menu option by running: \"$dir\\install-context.reg\"",
+    "notes": [
+        "Add gVim as a context menu option by running: \"$dir\\install-context.reg\",",
+        "Type vimtutor with language code to run Vimtutor with localization.",
+        "User configurations are located in $HOME\\vimfiles",
+        "See https://github.com/junegunn/vim-plug to install a plugin manager."
+    ],
     "suggest": {
         "vimtutor": "vimtutor"
     },
