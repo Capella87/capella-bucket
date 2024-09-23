@@ -2,24 +2,27 @@
 
 [![Tests](https://github.com/Capella87/capella-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Capella87/capella-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/Capella87/capella-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Capella87/capella-bucket/actions/workflows/excavator.yml) [![License](https://img.shields.io/badge/license-unlicense-blue)](./LICENSE)
 
-This bucket contains apps that are missing in major Scoop buckets and self-developed apps.
+This Scoop bucket contains various apps that are missing from major Scoop buckets, as well as my self-developed applications.
 
-Currently focus on providing apps for gaming such as mod tool.
+Because of Scoop's autoupdate feature, The auto-update action is triggered to fetch version information automatically every 4 hours.
 
-Because of autoupdate feature, Actions are regularly triggered to fetch recently updated apps in this bucket automatically every 4 hours with GitHub Actions.
+## Getting Started
+Prior to importing this bucket, [Scoop package manager](https://scoop.sh) and [Git](https://git-scm.com) must be installed in your system.
 
-## Installation
-Scoop package manager is required. See [Scoop](https://scoop.sh/) for installation.
-
-Then, add this bucket to scoop:
+Then, add this bucket to Scoop:
 ```powershell
 scoop bucket add capella-bucket https://github.com/Capella87/capella-bucket
 ```
 
-## Troubleshooting
-If you have any problems using apps in this bucket, please open an issue.
+Note that when there are manifests with the same name in default buckets (e.g. Main) and any arbitrary buckets, Scoop prefers to use their default bucket version. So to install any packages using my bucket's version exactly, you have to prefix the bucket name and slash to every package's name you want to download. This does not apply in my bucket's exclusive packages.
+```pwsh
+scoop install capella-bucket/garnet
+```
 
-Sometimes, I amend a commit to fix some issues. If you have any problems using apps in this bucket, please go to this bucket directory and run the following command to update this bucket:
+## Troubleshooting
+If you have any problems using my bucket, please open a new issue. The most frequent type of issue is hash problem, it is automatically processed by GitHub Actions as you open.
+
+Rarely, I amend a commit to fix some issues. If you have any problems using apps in this bucket, please go to this bucket directory and run the following command to update this bucket:
 ```powershell
 git reset --soft origin/master
 git pull origin master --force
