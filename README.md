@@ -41,6 +41,7 @@ git pull origin master --force
 * Dummy DLL Generator
 * ExifGlass (Tool of ImageGlass, But standalone)
 * FocusWriter (Distraction-free writing tool)
+* GalaxyBudsClient (Unofficial open-source Galaxy Buds manager)
 * Garnet (Cache store faster than Redis)
 * Gottet (Tetris clone)
 * HaRepacker (MapleStory file editor)
