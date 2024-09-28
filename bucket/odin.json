@@ -9,7 +9,6 @@
             "hash": "f1caafcbc327e50b71f980e74683488c3b99570e40e1642355e2cf7a8fde4781"
         }
     },
-    "extract_dir": "windows_artifacts",
     "bin": "odin.exe",
     "checkver": {
         "url": "https://github.com/odin-lang/Odin/releases/latest",
