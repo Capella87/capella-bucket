@@ -47,7 +47,6 @@
         "QTFiles64",
         "QTFiles"
     ],
-    "post_uninstall": "Remove-Item -Recurse -Force $dir\\qaac_$version",
     "checkver": {
         "github": "https://github.com/nu774/qaac"
     },
