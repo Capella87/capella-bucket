@@ -35,6 +35,7 @@ git pull origin master --force
 * AirPodsDesktop (AirPods desktop user experience enhancement program)
 * Avogadro 2 (A chemical editor and visualization application)
 * BLEConsole (Bluetooth Low Energy console)
+* Busybox (Single binary that provides several stripped-down Unix tools in a single executable)
 * Connectagram (Word unscrambling game)
 * CuteMaze (Maze game)
 * Digital (Circuit simulator)
