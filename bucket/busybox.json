@@ -3,6 +3,10 @@
     "description": "BusyBox is a single binary that contains many common Unix tools",
     "homepage": "https://frippery.org/busybox",
     "license": "GPL-2.0-only",
+    "notes": [
+        "You must remove 'diff' alias in PowerShell to invoke 'diff.exe'. Command:",
+        "rm alias:\\diff -Force"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://frippery.org/files/busybox/busybox-w64-FRP-5467-g9376eebd8.exe#/busybox.exe",
