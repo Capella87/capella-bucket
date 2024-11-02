@@ -36,6 +36,7 @@ git pull origin master --force
 * Avogadro 2 (A chemical editor and visualization application)
 * BLEConsole (Bluetooth Low Energy console)
 * Busybox (Single binary that provides several stripped-down Unix tools in a single executable)
+* Busyboxu (Busybox with native Unicode support for Windows 10 1903 or later)
 * Connectagram (Word unscrambling game)
 * CuteMaze (Maze game)
 * Digital (Circuit simulator)
