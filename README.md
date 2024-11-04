@@ -41,6 +41,7 @@ git pull origin master --force
 * CuteMaze (Maze game)
 * Digital (Circuit simulator)
 * Dummy DLL Generator
+* EventLogViewer (Event log viewer for Windows)
 * ExifGlass (Tool of ImageGlass, But standalone)
 * FocusWriter (Distraction-free writing tool)
 * GalaxyBudsClient (Unofficial open-source Galaxy Buds manager)
