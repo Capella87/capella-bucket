@@ -111,5 +111,6 @@ git pull origin master --force
 * Vim (Vi IMproved)
 * ViVeTool (Settings tweak tool for Windows 10 20H1 or later)
 * Wasmer (WebAssembly runtime)
+* Win-ACME (ACMEv2 client for Windows with Cloudflare plugin)
 * xd-AntiSpy (Bloatware removal tool)
 * Zim (Desktop wiki)
