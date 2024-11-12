@@ -83,6 +83,7 @@ git pull origin master --force
 * Opus-tools-chocobo1 (Opus codec tools built by Chocobo1)
 * Peg-E (Peg solitaire game)
 * Poetry (New Python package manager)
+* Polyphone (SoundFont editor)
 * Pororoca (Postman Replacement)
 * PySolFC (PySol Fan Club Edition)
 * Qaac (AAC/ALAC encoder CLI frontend)
