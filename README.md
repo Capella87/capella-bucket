@@ -74,6 +74,7 @@ git pull origin master --force
 * NoVideo_sRGB (Color calibration tool for NVIDIA GPU)
 * NovProg (NaNoWriMo Progress Meter)
 * Odin (Data-Oriented Programming Language)
+* Ogg (Ogg Vorbis codec tools built by jeremylee)
 * OpenSSL 1.1.1 (Old LTS)
 * OpenSSL 1.1.1 (Old LTS, Light)
 * OpenSSL 3.2.X (Current)
