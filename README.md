@@ -30,6 +30,10 @@ git pull origin master --force
 
 ## Catalogs
 
+### My Apps
+* Fnorm (Unicode normalization tool for filenames)
+
+### Others
 * Aaru (Data Preservation Suite)
 * Advanced Genie Editor (Tool for Age of Empires II)
 * AirPodsDesktop (AirPods desktop user experience enhancement program)
