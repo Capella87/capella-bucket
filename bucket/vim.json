@@ -9,9 +9,6 @@
         "User configurations are located in $HOME\\vimfiles",
         "See https://github.com/junegunn/vim-plug to install a plugin manager."
     ],
-    "suggest": {
-        "vimtutor": "vimtutor"
-    },
     "architecture": {
         "64bit": {
             "url": "https://github.com/vim/vim-win32-installer/releases/download/v9.1.0/gvim_9.1.0_x64_signed.zip",
