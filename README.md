@@ -43,6 +43,7 @@ git pull origin master --force
 * Busyboxu (Busybox with native Unicode support for Windows 10 1903 or later)
 * Connectagram (Word unscrambling game)
 * CuteMaze (Maze game)
+* DepotDownloader (Steam depot downloader)
 * Digital (Circuit simulator)
 * Dummy DLL Generator
 * EventLogViewer (Event log viewer for Windows)
