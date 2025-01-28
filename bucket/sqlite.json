@@ -1,0 +1,31 @@
+{
+    "version": "3.48.0",
+    "description": "A small, fast, self-contained, high-reliability and full-featured SQL database engine",
+    "homepage": "https://www.sqlite.org/",
+    "license": {
+        "url": "https://www.sqlite.org/src/file?name=LICENSE.md"
+    },
+    "notes": "SQLite does not support encryption in default.",
+    "architecture": {
+        "64bit": {
+            "url": "https://www.sqlite.org/2025/sqlite-tools-win-x64-3480000.zip",
+            "hash": "623e87d71ff21251829307970f3609a2592cb89fb354768a4e6fd911c7fd398b"
+        }
+    },
+    "bin": [
+        "sqlite3.exe",
+        "sqldiff.exe",
+        "sqlite3_analyzer.exe"
+    ],
+    "checkver": {
+        "url": "https://www.sqlite.org/download.html",
+        "regex": "(?sm)\\d+-bit DLL \\(x\\d+\\) for SQLite version ([\\d.]+)\\..*?(?<year>\\d+)/sqlite-tools-win-x64-(?<clean>\\d+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://www.sqlite.org/$matchYear/sqlite-tools-win-x64-$matchClean.zip"
+            }
+        }
+    }
+}
