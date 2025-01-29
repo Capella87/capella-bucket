@@ -107,6 +107,7 @@ git pull origin master --force
 * Simsu (Basic Sudoku game)
 * SpiderFire (SpiderMonkey based JavaScript Runtime)
 * SQLite3MultipleCiphers (Encryption support for SQLite3)
+* Sslyze (SSL/TLS scanner)
 * Symphytum (Personal database software for everyone who desires to manage and organize data in an easy and intuitive way)
 * Tanglet (Word finding game)
 * Tetzle (Jigsaw puzzle game)
