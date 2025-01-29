@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": "https://kurtzimmermann.com/files/RegCoolX64.zip",
-            "hash": "06bf16bfefe22757a80610751c83970d91d2ee27315e20bb91dcdfbc56bfad56"
+            "hash": "007d23e8a70bc4e6dd8e2c51c8d1083ced8ec791c870ec0fa586c1f198b8dae6"
         },
         "32bit": {
             "url": "https://kurtzimmermann.com/files/RegCoolX32.zip",
-            "hash": "43fffb427f14841868c80bd5bd12baebd38fdb01d050f47606502f2952dde265"
+            "hash": "5e070c012a1a4951605beabf682665b2ebcdc3b186122727f957c91c793c53d9"
         }
     },
     "post_install": "Remove-Item $dir\\Updater.exe -Force",
