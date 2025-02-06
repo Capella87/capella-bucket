@@ -15,7 +15,6 @@
     },
     "post_install": [
         "Remove-Item -Path $dir\\'$PLUGINSDIR' -Recurse -Force",
-        "Remove-Item -Path $dir\\uninstall.exe -Force",
         "$content = Get-Content \"$dir\\environ.ini\"",
         "$content = $content.Replace('HOME=../', \"HOME=$env:USERPROFILE\")",
         "Set-Content \"$dir\\environ.ini\" $content -Encoding utf8NoBOM"
