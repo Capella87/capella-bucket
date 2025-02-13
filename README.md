@@ -123,6 +123,7 @@ git pull origin master --force
 ### Multimedia
 * AirPodsDesktop (AirPods desktop user experience enhancement program)
 * ExifGlass (Tool of ImageGlass, But standalone)
+* Flac (FLAC tools)
 * GalaxyBudsClient (Unofficial open-source Galaxy Buds manager)
 * ImageGlass (Image viewer)
 * Jeongganbo-Editor (Jeongganbo notation editor)
