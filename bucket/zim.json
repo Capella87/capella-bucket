@@ -1,5 +1,5 @@
 {
-    "version": "0.76.1",
+    "version": "0.76.3",
     "description": "A Desktop Wiki",
     "homepage": "https://zim-wiki.org",
     "license": "GPL-2.0-or-later",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://zim-wiki.org/downloads/zim-desktop-wiki-0.76.1-setup-w64_x86.exe#/download.7z",
-            "hash": "237371fb939113caae3f4246a8c07e97c09e73636c20b283fbb65deea3391d50"
+            "url": "https://zim-wiki.org/downloads/zim-desktop-wiki-0.76.3-setup-w64_x86.exe#/download.7z",
+            "hash": "b1b7733bf3809d0aec0078de243eacdfcd8d036cfe3a5a694ae58c56b79f900b"
         }
     },
     "post_install": [
