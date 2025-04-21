@@ -9,7 +9,7 @@
         "pov-ray": "extras/pov-ray"
     },
     "url": "https://downloads.sourceforge.net/project/jmol/files/Jmol/Version%2016.3/Jmol%2016.3.15/Jmol-16.3.15-binary.zip",
-    "hash": "sha1:a5bbfacf3a437c11cc6d14cfa3699f8b559fc3bb",
+    "hash": "sha1:43f50d6d5e06bf6d25dbee1f84d085752d241a60",
     "extract_dir": "jmol-16.3.15",
     "bin": "jmol.bat",
     "shortcuts": [
