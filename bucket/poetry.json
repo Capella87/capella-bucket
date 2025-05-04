@@ -1,5 +1,5 @@
 {
-    "version": "2.1.2",
+    "version": "2.1.3",
     "description": "Dependency Management for Python. This poetry manifest requires python3.exe alias to be pointed to python.exe",
     "homepage": "https://python-poetry.org/",
     "license": "MIT",
