@@ -1,14 +1,14 @@
 {
-    "version": "24.0.3",
+    "version": "34.0.1",
     "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
     "homepage": "https://wasmtime.dev",
     "license": "Apache-2.0",
     "notes": "Configuration file named config.toml is created and saved at $dir\\config directory after the first installation.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bytecodealliance/wasmtime/releases/download/v24.0.3/wasmtime-v24.0.3-x86_64-windows.zip",
-            "hash": "9c2dfa86b2c6c452860675cd3cf20d012619dac2d4127381713052a39011b529",
-            "extract_dir": "wasmtime-v24.0.3-x86_64-windows"
+            "url": "https://github.com/bytecodealliance/wasmtime/releases/download/v34.0.1/wasmtime-v34.0.1-x86_64-windows.zip",
+            "hash": "5ac620948dce08d61f66dc49196706244ae53486988fb06a09a43060f2bdec90",
+            "extract_dir": "wasmtime-v34.0.1-x86_64-windows"
         }
     },
     "post_install": [
