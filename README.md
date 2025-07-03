@@ -87,6 +87,7 @@ git pull origin master --force
 * DepotDownloader (Steam depot downloader)
 * HaRepacker (MapleStory file editor)
 * HPK (HPK archiver for Haemimont Engine game files)
+* LotAdjuster (Map editor for The Sims 2)
 * SimPe (Data editor for The Sims 2)
 * Simsu (Basic Sudoku game)
 
@@ -96,12 +97,11 @@ git pull origin master --force
 * Jmol (Viewer for 3D chemical structures written in Java)
 * Logisim (Circuit design and simulation tool)
 * Logisim-evolution (Improved version of Logisim)
-* LotAdjuster (Map editor for The Sims 2)
 
 ### Tools
+* Aaru (Data Preservation Suite)
 * Dummy DLL Generator
 * EventLogViewer (Event log viewer for Windows)
-* Flowkeeper (Pomodoro desktop timer)
 * Libarchive (Compression tool and library)
 * Locale Remulator (Locale Emulator alternative for 64-bit programs)
 * noMeiryoUI (Meiryo UI font replacement)
@@ -112,14 +112,14 @@ git pull origin master --force
 * xd-AntiSpy (Bloatware removal tool)
 
 ### Productivity
-* Aaru (Data Preservation Suite)
+* Flowkeeper (Pomodoro desktop timer)
 * FocusWriter (Distraction-free writing tool)
 * Kapow (Punch clock program for tracking work hours)
 * Lifeograph (Private digital diary)
 * NClass (UML editor written in C#)
 * NovProg (NaNoWriMo Progress Meter)
 * Symphytum (Personal database software for everyone who desires to manage and organize data in an easy and intuitive way)
-* Zim (Desktop wiki)
+* Zim (Desktop Wiki with GTK)
 
 ### Multimedia
 * AirPodsDesktop (AirPods desktop user experience enhancement program)
