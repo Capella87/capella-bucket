@@ -22,12 +22,6 @@ scoop install capella-bucket/garnet
 ## Troubleshooting
 If you have any problems using my bucket, please open a new issue. The most frequent type of issue is hash problem, it is automatically processed by GitHub Actions as you open.
 
-Rarely, I amend a commit to fix some issues. If you have any problems using apps in this bucket, please go to this bucket directory and run the following command to update this bucket:
-```powershell
-git reset --soft origin/master
-git pull origin master --force
-```
-
 ## Catalog
 
 ### My Apps
