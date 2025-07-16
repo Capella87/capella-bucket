@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "notes": [
         "Set a configuration by running \"Aaru.exe configure\"",
-        "User data is stored in C:\\Users\\Capella87\\AppData\\Roaming\\Claunia.com\\Aaru"
+        "User data is stored in $HOME\\AppData\\Roaming\\Claunia.com\\Aaru"
     ],
     "architecture": {
         "64bit": {

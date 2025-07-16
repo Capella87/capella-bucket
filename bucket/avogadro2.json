@@ -4,7 +4,7 @@
     "homepage": "https://two.avogadro.cc/index.html",
     "license": "BSD-3-Clause",
     "notes": [
-        "User data and plugins are stored in AppData\\Local\\OpenChemistry\\Avogadro2",
+        "User data and plugins are stored in $HOME\\AppData\\Local\\OpenChemistry\\Avogadro2",
         "You can download plugins via the Extensions menu in the application."
     ],
     "suggest": {

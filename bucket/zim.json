@@ -4,7 +4,7 @@
     "homepage": "https://zim-wiki.org",
     "license": "GPL-2.0-or-later",
     "notes": [
-        "From 0.76.0, Zim's persist directories are moved to AppData\\Roaming\\zim",
+        "From 0.76.0, Zim's persist directories are moved to $HOME\\AppData\\Roaming\\zim",
         "Template directory for Zim is currently set to User's Templates directory in default."
     ],
     "architecture": {
