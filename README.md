@@ -123,6 +123,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * GalaxyBudsClient (Unofficial open-source Galaxy Buds manager)
 * ImageGlass (Image viewer)
 * Jeongganbo-Editor (Jeongganbo notation editor)
+* Libation (Audible audiobook manager)
 * LRCGET (Lyrics downloader)
 * MP3Gain (MP3 volume normalizer)
 * Musikcube (CLI music player)
