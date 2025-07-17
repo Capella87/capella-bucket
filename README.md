@@ -131,4 +131,5 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Opus-tools-chocobo1 (Opus codec tools built by Chocobo1)
 * Polyphone (SoundFont editor)
 * Qaac (AAC/ALAC encoder CLI frontend)
+* TiMidity (TiMidity++; Software MIDI synthesizer)
 * Vgmstream (A library for playback of various streamed audio formats used in video games)
