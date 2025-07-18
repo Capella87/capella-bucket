@@ -63,6 +63,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Txiki.js (A tiny JavaScript Runtime with QuickJS-Ng engine)
 * USBAsp-flash (Programming tool for Flash memory. Supports CH341A and so on)
 * Vim (Vi IMproved)
+* WAMR (WebAssembly Micro Runtime)
 * WasmEdge (WebAssembly runtime by WasmEdge)
 * Wasmer (WebAssembly runtime by Wasmer)
 * Wasmtime (WebAssembly runtime by Bytecode Alliance)
