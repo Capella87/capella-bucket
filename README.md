@@ -32,6 +32,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Busybox (Single binary that provides several stripped-down Unix tools in a single executable)
 * Busyboxu (Busybox with native Unicode support for Windows 10 1903 or later)
 * Garnet (Cache store faster than Redis)
+* Geoserver (Geospatial data sharing server)
 * Kiota (OpenAPI HTTP client code generator)
 * Libsndfile (C library for reading and writing files containing sampled sound through one standard library interface)
 * Lua (5.4.x with MinGW)
