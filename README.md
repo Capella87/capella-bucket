@@ -75,6 +75,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * CuteMaze (Maze game)
 * Gottet (Tetris clone)
 * Hexalate (Color matching game)
+* LucasChess (Chess game powered by Stockfish and with smart tutor)
 * Peg-E (Peg solitaire game)
 * PySolFC (PySol Fan Club Edition)
 * Tanglet (Word finding game)

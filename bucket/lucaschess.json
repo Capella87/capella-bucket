@@ -1,0 +1,24 @@
+{
+    "version": "2.20c",
+    "description": "An easy way to play and train chess on your PC",
+    "homepage": "https://lucaschess.pythonanywhere.com/",
+    "license": "GPL-3.0",
+    "url": "https://sourceforge.net/projects/lucaschessr/files/Version_R2/LucasChessR02_20c.exe#/lucaschess.7z",
+    "hash": "sha1:9bd5f89310113c3a1c8773ae2699b016ba23cc3d",
+    "extract_dir": "LucasChessR",
+    "bin": "bin/LucasR.exe",
+    "shortcuts": [
+        [
+            "bin/LucasR.exe",
+            "LucasChess"
+        ]
+    ],
+    "persist": "UserData",
+    "checkver": {
+        "github": "https://github.com/lukasmonk/lucaschessR2",
+        "regex": "Version R([\\w\\.-]+)"
+    },
+    "autoupdate": {
+        "url": "https://sourceforge.net/projects/lucaschessr/files/Version_R2/LucasChessR0$underscoreVersion.exe#/lucaschess.7z"
+    }
+}
