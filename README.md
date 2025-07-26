@@ -53,6 +53,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Raptor (Flowchart-based programming environment)
 * Raylib (Programming library to enjoy videogames programming)
 * Raylib-mingw (MinGW build of Raylib)
+* Redis (In-memory Key-Value database; Windows Port)
 * SDL2 (Simple DirectMedia Layer)
 * SDL2_image
 * SDL2_mixer
