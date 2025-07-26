@@ -5,7 +5,7 @@
     "license": "AGPL-3.0",
     "notes": [
         "From Redis Open Source 8.0, the default configuration file is redis-full.conf.",
-        "I've make config directory for storing persist files conveniently.",
+        "I made config directory for storing persist files conveniently.",
         "You can copy configuration files to config directory to keep them safely.",
         "To run Redis with configuration file, Use the following command:",
         "redis-server.exe [redis.conf path]"
