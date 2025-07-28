@@ -50,6 +50,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Poetry (New Python package manager)
 * Pororoca (Postman Replacement)
 * Quicreach (Ping equivalent for QUIC with msquic)
+* RabbitMQ (Message broker)
 * Racket (PLT Scheme)
 * Raptor (Flowchart-based programming environment)
 * Raylib (Programming library to enjoy videogames programming)
