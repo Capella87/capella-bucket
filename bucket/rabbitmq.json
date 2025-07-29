@@ -1,5 +1,5 @@
 {
-    "version": "3.12.10",
+    "version": "4.1.2",
     "description": "Message-broker",
     "homepage": "https://www.rabbitmq.com",
     "license": "MPL-2.0",
@@ -10,9 +10,9 @@
         "In order to access the management UI, you should enable the plugin by running `rabbitmq-plugins enable rabbitmq_management`."
     ],
     "depends": "erlang",
-    "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v3.12.10/rabbitmq-server-windows-3.12.10.zip",
-    "hash": "b84667627e3882d5e8b52e47be86a1cae2b06c22b0358b1a5b8692ca3fe6f13b",
-    "extract_dir": "rabbitmq_server-3.12.10",
+    "url": "https://github.com/rabbitmq/rabbitmq-server/releases/download/v4.1.2/rabbitmq-server-windows-4.1.2.zip",
+    "hash": "6e66290c1a568f88a14e894adc88f0699a7f21956594c302ba71e97ad9b28af6",
+    "extract_dir": "rabbitmq_server-4.1.2",
     "bin": [
         "sbin\\rabbitmqctl.bat",
         "sbin\\rabbitmq-defaults.bat",
@@ -31,7 +31,7 @@
     ],
     "env_set": {
         "RABBITMQ_SERVER": "$dir",
-        "RABBITMQ_BASE" : "$persist_dir\\data"
+        "RABBITMQ_BASE": "$persist_dir\\data"
     },
     "checkver": {
         "url": "https://www.rabbitmq.com/download.html",
