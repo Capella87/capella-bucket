@@ -3,9 +3,6 @@
     "description": "The leading WebAssembly Runtime supporting WASI and Emscripten",
     "homepage": "https://wasmer.io/",
     "license": "MIT",
-    "suggest": {
-        "wapm": "wapm-cli"
-    },
     "architecture": {
         "64bit": {
             "url": "https://github.com/wasmerio/wasmer/releases/download/v6.0.1/wasmer-windows-amd64.tar.gz",
