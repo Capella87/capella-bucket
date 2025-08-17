@@ -103,6 +103,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 
 ### Tools
 * Aaru (Data Preservation Suite)
+* Double Commander (Total Commander alternative)
 * Dummy DLL Generator
 * EventLogViewer (Event log viewer for Windows)
 * Libarchive (Compression tool and library)
