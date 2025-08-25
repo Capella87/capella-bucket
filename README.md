@@ -135,6 +135,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Libation (Audible audiobook manager)
 * LRCGET (Lyrics downloader)
 * MP3Gain (MP3 volume normalizer)
+* Music Presence (The Discord music status that works with any media player)
 * Musikcube (CLI music player)
 * Ogg (Ogg Vorbis codec tools built by jeremylee)
 * Opus-tools-chocobo1 (Opus codec tools built by Chocobo1)
