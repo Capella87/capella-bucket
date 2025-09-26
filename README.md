@@ -118,6 +118,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 ### Productivity
 * Flowkeeper (Pomodoro desktop timer)
 * FocusWriter (Distraction-free writing tool)
+* Freeplane (Mind mapping software)
 * Kapow (Punch clock program for tracking work hours)
 * Lifeograph (Private digital diary)
 * NClass (UML editor written in C#)
