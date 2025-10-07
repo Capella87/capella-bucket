@@ -87,6 +87,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 
 ### Game Tools
 * Advanced Genie Editor (Tool for Age of Empires II)
+* DBPF Viewer (DBPF file viewer for The Sims 2)
 * DepotDownloader (Steam depot downloader)
 * HaRepacker (MapleStory file editor)
 * HPK (HPK archiver for Haemimont Engine game files)
