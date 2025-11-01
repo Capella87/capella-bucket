@@ -8,7 +8,7 @@
         "64bit": {
             "url": "https://github.com/d2phap/ExifGlass/releases/download/1.10.0.0/ExifGlass_1.10.0.0_x64.zip",
             "hash": "ab3f1925640ac5cc150ecf366139565abff06323bfdc53a8e3c34c94adf5fff4",
-            "extract_dir": "ExifGlass_1.10.0.0_net9_x64"
+            "extract_dir": "ExifGlass_1.10.0.0_x64"
         }
     },
     "depends": "main/exiftool",
@@ -36,7 +36,7 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/d2phap/ExifGlass/releases/download/$version/ExifGlass_$version_x64.zip",
-                "extract_dir": "ExifGlass_$version_net9_x64"
+                "extract_dir": "ExifGlass_$version_x64"
             }
         }
     }
