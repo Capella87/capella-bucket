@@ -23,6 +23,7 @@
             "hash": "d0a8bf5e41dfa57464131d6c52963b0db95857171adc890469528fc8d5ae2e60"
         }
     },
+    "extract_dir": "vim/vim91",
     "post_install": [
         "'install-context.reg', 'uninstall-context.reg' | ForEach-Object {",
         "    $vimpath = \"$dir\\gVim.exe\".Replace('\\', '\\\\')",
@@ -121,6 +122,7 @@
             "arm64": {
                 "url": "https://github.com/vim/vim-win32-installer/releases/download/v$version/gvim_$version_arm64$matchSuffix.zip"
             }
-        }
+        },
+        "extract_dir": "vim/vim$majorVersion$minorVersion"
     }
 }
