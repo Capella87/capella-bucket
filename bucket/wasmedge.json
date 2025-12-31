@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "notes": "This package is built with the MSVC toolchain.",
     "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.16.0/WasmEdge-0.16.0-windows-msvc.zip",
-    "hash": "4d351c2aa6dae208c9ba689aa03597f653c5faf0accb57f7442d358c58660537",
+    "hash": "ce810aab645041129ea8654b9f0cead4cdf600f360461b02f538903254b5beb0",
     "bin": [
         "bin\\wasmedge.exe",
         "bin\\wasmedgec.exe"
