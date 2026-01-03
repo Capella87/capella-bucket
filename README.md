@@ -28,6 +28,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Fnorm (Unicode normalization tool for filenames)
 
 ### Development Tools
+* BaseX (Lightweight, high-performance and scalable XML Database and XQuery 4.0 Processor)
 * BLEConsole (Bluetooth Low Energy console)
 * Busybox (Single binary that provides several stripped-down Unix tools in a single executable)
 * Busyboxu (Busybox with native Unicode support for Windows 10 1903 or later)
