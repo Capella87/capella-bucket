@@ -108,6 +108,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Double Commander (Total Commander alternative)
 * Dummy DLL Generator
 * EventLogViewer (Event log viewer for Windows)
+* KakaoTalk Adblock (Ad blocker for KakaoTalk Desktop)
 * Libarchive (Compression tool and library)
 * Locale Remulator (Locale Emulator alternative for 64-bit programs)
 * noMeiryoUI (Meiryo UI font replacement)
