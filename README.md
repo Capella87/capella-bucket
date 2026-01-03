@@ -83,6 +83,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * LucasChess (Chess game powered by Stockfish and with smart tutor)
 * Peg-E (Peg solitaire game)
 * PySolFC (PySol Fan Club Edition)
+* Simsu (Basic Sudoku game)
 * Tanglet (Word finding game)
 * Tetzle (Jigsaw puzzle game)
 
@@ -94,7 +95,6 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * HPK (HPK archiver for Haemimont Engine game files)
 * LotAdjuster (Map editor for The Sims 2)
 * SimPe (Data editor for The Sims 2)
-* Simsu (Basic Sudoku game)
 
 ### Education
 * Avogadro 2 (A chemical editor and visualization application)
