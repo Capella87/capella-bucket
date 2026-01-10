@@ -66,6 +66,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * SQLite3MultipleCiphers (Encryption support for SQLite3)
 * Sslyze (SSL/TLS scanner)
 * SWC (Speedy Web Compiler, a Rust-based JavaScript/TypeScript compiler)
+* Termix (A web-based SSH platform)
 * Txiki.js (A tiny JavaScript Runtime with QuickJS-Ng engine)
 * USBAsp-flash (Programming tool for Flash memory. Supports CH341A and so on)
 * uv (Python package manager built with Rust)
