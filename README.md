@@ -97,6 +97,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * HPK (HPK archiver for Haemimont Engine game files)
 * LotAdjuster (Map editor for The Sims 2)
 * SimPe (Data editor for The Sims 2)
+* SMAPI (Stardew Valley modding API)
 
 ### Education
 * Avogadro 2 (A chemical editor and visualization application)
