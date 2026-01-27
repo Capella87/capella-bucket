@@ -28,6 +28,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Fnorm (Unicode normalization tool for filenames)
 
 ### Bioinformatics
+* FastQC (A quality control tool for high throughput sequence data)
 * SRA-Tools (A collection of tools and libraries for using data in the INSDC Sequence Read Archives)
 
 ### Development Tools
