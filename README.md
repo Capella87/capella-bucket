@@ -29,7 +29,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 
 ### Bioinformatics
 * FastQC (A quality control tool for high throughput sequence data)
-* SRA-Tools (A collection of tools and libraries for using data in the INSDC Sequence Read Archives)
+* SRAToolkit (A collection of tools and libraries for using data in the INSDC Sequence Read Archives)
 
 ### Development Tools
 * BaseX (Lightweight, high-performance and scalable XML Database and XQuery 4.0 Processor)
