@@ -27,6 +27,9 @@ If you have any problems using my bucket, please open a new issue. The most freq
 ### My Apps
 * Fnorm (Unicode normalization tool for filenames)
 
+### Bioinformatics
+* SRA-Tools (A collection of tools and libraries for using data in the INSDC Sequence Read Archives)
+
 ### Development Tools
 * BaseX (Lightweight, high-performance and scalable XML Database and XQuery 4.0 Processor)
 * BLEConsole (Bluetooth Low Energy console)
