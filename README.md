@@ -29,6 +29,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 
 ### Bioinformatics
 * FastQC (A quality control tool for high throughput sequence data)
+* SeqMonk (Mapped Sequence Analysis Tool)
 * SRAToolkit (A collection of tools and libraries for using data in the INSDC Sequence Read Archives)
 
 ### Development Tools
