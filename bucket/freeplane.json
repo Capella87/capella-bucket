@@ -1,5 +1,5 @@
 {
-    "version": "1.12.17",
+    "version": "1.12.18",
     "description": "Freeplane is a free and open source software application that supports thinking, sharing information and getting things done at work, in school and at home. The software can be used for mind mapping and analyzing the information contained in mind maps.",
     "homepage": "https://www.freeplane.org",
     "license": "GPL-2.0-or-later",
@@ -10,9 +10,9 @@
             "java/openjdk21"
         ]
     },
-    "url": "https://github.com/freeplane/freeplane/releases/download/release-1.12.17/freeplane_bin-1.12.17.zip",
-    "hash": "612e49ee35777f91591a3775654c3aa476369ee6dc7f61f5ba4a84f8b790e2d8",
-    "extract_dir": "freeplane-1.12.17",
+    "url": "https://github.com/freeplane/freeplane/releases/download/release-1.12.18/freeplane_bin-1.12.18.zip",
+    "hash": "5d32ef8a193766191f6b4f57e895e6bb97481802995cc83c9a3615841cfc2d15",
+    "extract_dir": "freeplane-1.12.18",
     "bin": "freeplane.exe",
     "shortcuts": [
         [
