@@ -126,6 +126,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * RegCool (Advanced registry editor)
 * Unicodia (Unicode character map)
 * ViVeTool (Settings tweak tool for Windows 10 20H1 or later)
+* WinSlop (De-slop Windows; Bloatware removal tool)
 * xd-AntiSpy (Bloatware removal tool)
 
 ### Productivity

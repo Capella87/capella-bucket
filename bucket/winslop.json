@@ -1,0 +1,36 @@
+{
+    "version": "0.50.125",
+    "description": "De-slop Windows.",
+    "homepage": "https://github.com/builtbybel/Winslop",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/builtbybel/Winslop/releases/download/0.50.125/Winslop-0.50.zip",
+            "hash": "1f8093c5e8751411bd96da325b6d1212403f79485af638c14bce5c2a2450b9f0"
+        }
+    },
+    "pre_install": [
+        "$configFileExists = Test-Path $persist_dir\\Winslop.txt",
+        "if (-not $configFileExists) { Add-Content $dir\\Winslop.txt '{\"AutoUpdate\": \"0\"}' -Encoding utf8NoBOM }"
+    ],
+    "shortcuts": [
+        [
+            "Winslop.exe",
+            "Winslop",
+            "",
+            "Winslop.exe"
+        ]
+    ],
+    "persist": "Winslop.txt",
+    "checkver": {
+        "github": "https://github.com/builtbybel/Winslop",
+        "regex": "tag/([\\w\\.-]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/builtbybel/Winslop/releases/download/$version/Winslop-$majorVersion.$minorVersion.zip"
+            }
+        }
+    }
+}
