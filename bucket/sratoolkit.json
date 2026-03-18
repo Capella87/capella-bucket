@@ -13,7 +13,6 @@
     "bin": [
         "bin/abi-dump.exe",
         "bin/align-info.exe",
-        "bin/cache-mgr.exe",
         "bin/fasterq-dump.exe",
         "bin/fastq-dump.exe",
         "bin/illumina-dump.exe",
