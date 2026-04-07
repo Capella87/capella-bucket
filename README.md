@@ -127,7 +127,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Unicodia (Unicode character map)
 * ViVeTool (Settings tweak tool for Windows 10 20H1 or later)
 * Weathr (An ASCII terminal weather app)
-* WinSlop (De-slop Windows; Bloatware removal tool)
+* WinSlopr (De-slop Windows; Bloatware removal tool)
 * xd-AntiSpy (Bloatware removal tool)
 
 ### Productivity
