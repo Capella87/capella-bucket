@@ -1,5 +1,5 @@
 {
-    "version": "1.30.0",
+    "version": "1.31.0",
     "description": "OpenAPI based HTTP Client code generator",
     "homepage": "https://github.com/microsoft/kiota",
     "license": "MIT",
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/microsoft/kiota/releases/download/v1.30.0/win-x64.zip",
-            "hash": "03045011da6038f632748750751fc88692f2ef5d13205b572e2e596f31e62153"
+            "url": "https://github.com/microsoft/kiota/releases/download/v1.31.0/win-x64.zip",
+            "hash": "6ccef10e7196073d63606b20dee4d9bbab39e949ee0f04f89137820c4e033a6c"
         },
         "32bit": {
-            "url": "https://github.com/microsoft/kiota/releases/download/v1.30.0/win-x86.zip",
-            "hash": "3196bf95dd013a0f651a8ba00508a15a9dfd01ffa90116fd113d479cda2b05e4"
+            "url": "https://github.com/microsoft/kiota/releases/download/v1.31.0/win-x86.zip",
+            "hash": "1fcc63d1c592ebb44bfe25f2431cb39fb91909f3e26bab88bcc98dcb0a3ee9c9"
         }
     },
     "bin": "kiota.exe",
