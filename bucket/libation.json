@@ -1,17 +1,17 @@
 {
-    "version": "13.3.3",
+    "version": "13.3.4",
     "description": "Librate your library; Audible audiobook manager",
     "homepage": "https://github.com/rmcrackan/Libation",
     "license": "GPL-3.0-only",
     "notes": "Data is stored in $HOME/Libation",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rmcrackan/Libation/releases/download/v13.3.3/Libation.13.3.3-windows-chardonnay-x64.zip",
-            "hash": "d37d759c95e7ad772a7e213aa07f36e2b2f0e4dfb24778e14f88c57ebca7ceb8"
+            "url": "https://github.com/rmcrackan/Libation/releases/download/v13.3.4/Libation.13.3.4-windows-chardonnay-x64.zip",
+            "hash": "ad8198c95f5ab9d111e5640d8fd5be177989cdf4a3e588e57f13f7bd6c4321b7"
         },
         "arm64": {
-            "url": "https://github.com/rmcrackan/Libation/releases/download/v13.3.3/Libation.13.3.3-windows-chardonnay-arm64.zip",
-            "hash": "5a2894fd8bc8513f6a4f79002fad3d67f63dde6e204cb1a4382f21583109ba64"
+            "url": "https://github.com/rmcrackan/Libation/releases/download/v13.3.4/Libation.13.3.4-windows-chardonnay-arm64.zip",
+            "hash": "820d9702ce3ae3ebe2629d05c93c853f4632b66029ee03b82120cf1ec5fac905"
         }
     },
     "bin": [
