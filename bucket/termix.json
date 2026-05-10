@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Termix-SSH/Termix/releases/download/release-2.2.0-tag/termix_windows_x64_portable.zip",
-            "hash": "2a9f39d1b3a0f64ce48e4931b8240e64aab63bb12bd9adaef4f45a507125ba62"
+            "hash": "273f33e38f8b4323b0df1d9f7820414c187354aa88853e2272d76afe5a5c148b"
         },
         "32bit": {
             "url": "https://github.com/Termix-SSH/Termix/releases/download/release-2.2.0-tag/termix_windows_ia32_portable.zip",
-            "hash": "25168571fc116c456afa7b88a5c2e17ac0b64f08e9f165e48599929d24ed812d"
+            "hash": "b0847605f79fbd40e64095d0a6dc5cda4983f0fad06532bd706c2ad485dfe99b"
         }
     },
     "bin": "termix.exe",
