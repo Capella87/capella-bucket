@@ -20,7 +20,7 @@
     "bin": "swc.exe",
     "checkver": {
         "github": "https://github.com/swc-project/swc",
-        "regex": "tag/v([\\w\\.-]+)"
+        "regex": "v?(?![^\"]*-nightly-)([\\d\\.]+)"
     },
     "autoupdate": {
         "architecture": {
