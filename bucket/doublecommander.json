@@ -1,17 +1,17 @@
 {
-    "version": "1.1.32",
+    "version": "1.2.7",
     "description": "A free cross platform open-source file manager with two panels side by side. Inspired by Total Commander.",
     "homepage": "https://doublecmd.sourceforge.io/",
     "license": "GPL-2.0-or-later",
     "notes": "Double Commander is compatible with Total Commander plugins. Put your plugins in $persist_dir\\plugins",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.32/doublecmd-1.1.32.x86_64-win64.zip",
-            "hash": "37207dcd7c9ccd53fd3592720d3f6f89d885d554ee786b04dca6f8820d280036"
+            "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.7/doublecmd-1.2.7.x86_64-win64.zip",
+            "hash": "074c7881d30f581ac7c12926871d5eca63e7c50c4b30e1b77339992dc17cabbd"
         },
         "32bit": {
-            "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.32/doublecmd-1.1.32.i386-win32.zip",
-            "hash": "b22550ad5b8d526070cfad566f8f45bbc79c3f697c475d773580105cb6d51a9b"
+            "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.2.7/doublecmd-1.2.7.i386-win32.zip",
+            "hash": "fbea53f32c046fa87b68c6bf3fda9b2ccecdc400e64b9b29cfa065fe2765b9f8"
         }
     },
     "extract_dir": "doublecmd",
