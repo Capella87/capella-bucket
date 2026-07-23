@@ -1,5 +1,5 @@
 {
-    "version": "1.6.9",
+    "version": "1.6.10",
     "description": "A single player word finding game based on Boggle™",
     "homepage": "https://gottcode.org/tanglet/",
     "license": "GPL-3.0",
@@ -7,7 +7,7 @@
     "architecture": {
         "64bit": {
             "url": "https://gottcode.org/tanglet/download/?os=windowsportable#/Tanglet.zip",
-            "hash": "a2d50255bb9590906a972a70c113ca2655d33cf2276744d7b6d36e4d4588f2d0"
+            "hash": "bb60c9a98d977d0e40374f943578cd6b5e3eee302e3d86d6e17902c9b7984277"
         }
     },
     "extract_to": "",
