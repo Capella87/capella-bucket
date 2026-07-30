@@ -1,5 +1,5 @@
 {
-    "version": "3.1.0.1",
+    "version": "3.1.0.2",
     "description": "Advanced Registry Editor with Swiss Army Knife features.",
     "homepage": "https://www.kurtzimmermann.com/regcoolext_en.html",
     "license": "Freeware",
@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": "https://kurtzimmermann.com/files/RegCoolX64.zip",
-            "hash": "7ec9c4a2ab06f18c6d7fc01d9187ae9ef9f2a6d948e3870220a987185a8ee255"
+            "hash": "d1c42357e7867a64457f404183dbcdccd21c130269d08ddaec53f45ffb43f887"
         },
         "32bit": {
             "url": "https://kurtzimmermann.com/files/RegCoolX32.zip",
-            "hash": "44a5d81bed71e0720fb009fda78bcc47895c440604eb4d1e40f0a248323de4ec"
+            "hash": "461945aba75891630575a580a61939422f0310ada3d64a0fff564b88cca0f068"
         }
     },
     "post_install": "Remove-Item $dir\\Updater.exe -Force",
