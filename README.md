@@ -120,6 +120,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Double Commander (Total Commander alternative)
 * Dummy DLL Generator
 * EventLogViewer (Event log viewer for Windows)
+* FluentCleaner (A real WinUI desktop cleaner)
 * KakaoTalk Adblock (Ad blocker for KakaoTalk Desktop)
 * Libarchive (Compression tool and library)
 * Locale Remulator (Locale Emulator alternative for 64-bit programs)
@@ -129,7 +130,6 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * Unicodia (Unicode character map)
 * ViVeTool (Settings tweak tool for Windows 10 20H1 or later)
 * Weathr (An ASCII terminal weather app)
-* WinSlopr (De-slop Windows; Bloatware removal tool)
 * xd-AntiSpy (Bloatware removal tool)
 
 ### Productivity
