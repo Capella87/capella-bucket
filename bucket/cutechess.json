@@ -1,0 +1,38 @@
+{
+    "version": "1.5.1",
+    "description": "A GUI, command-line interface and a library for playing chess.",
+    "homepage": "https://cutechess.com/",
+    "license": "GPL-3.0-or-later",
+    "notes": "Settings are saved in AppData\\Roaming\\CuteChess",
+    "suggest": {
+        "vcredist2022": "extras/vcredist2022"
+    },
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cutechess/cutechess/releases/download/v1.5.1/cutechess-1.5.1-win64.zip",
+            "hash": "048942ca3473db860cb914fe94108da37051f693f47e368688ec6ec450f924bc",
+            "extract_dir": "cutechess-1.5.1-win64"
+        }
+    },
+    "bin": "cutechess-cli.exe",
+    "shortcuts": [
+        [
+            "cutechess.exe",
+            "CuteChess",
+            "",
+            "cutechess.exe"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/cutechess/cutechess",
+        "regex": "tag/v([\\w\\.-]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/cutechess/cutechess/releases/download/v$version/cutechess-$version-win64.zip",
+                "extract_dir": "cutechess-$version-win64"
+            }
+        }
+    }
+}

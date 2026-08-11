@@ -88,6 +88,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 
 ### Games
 * Connectagram (Word unscrambling game)
+* CuteChess (GUI chess game and library)
 * CuteMaze (Maze game)
 * Gottet (Tetris clone)
 * Hexalate (Color matching game)
