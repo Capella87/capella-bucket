@@ -69,6 +69,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * SDL2_image
 * SDL2_mixer
 * SDL2_ttf
+* Sollang (A bright, harmonious native language)
 * SpiderFire (SpiderMonkey based JavaScript Runtime)
 * SQLite
 * SQLite3MultipleCiphers (Encryption support for SQLite3)
