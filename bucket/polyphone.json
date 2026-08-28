@@ -8,7 +8,6 @@
         "64bit": {
             "url": "https://www.polyphone.io/en/software/download?file_id=150#/polyphonedownload.zip",
             "hash": "e2fe93884407a81aaedc5e1798868fe58d85a871a0027bd9ba54a4f89bfa1208",
-            "extract_dir": "Polyphone 2.6.0"
         }
     },
     "bin": "polyphone.exe",
@@ -26,7 +25,6 @@
         "architecture": {
             "64bit": {
                 "url": "https://www.polyphone.io/en/software/download?file_id=$matchNumber#/polyphonedownload.zip",
-                "extract_dir": "Polyphone $version"
             }
         }
     }
