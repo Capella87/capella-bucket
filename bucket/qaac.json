@@ -1,5 +1,5 @@
 {
-    "version": "3.05",
+    "version": "3.06",
     "description": "CLI QuickTime AAC/ALAC encoder",
     "homepage": "https://github.com/nu774/qaac",
     "license": "Public Domain",
@@ -19,9 +19,9 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nu774/qaac/releases/download/v3.05/qaac_3.05.zip",
-            "hash": "8a4a589e49880c921e846110632f499dfece34864621450c959085dc0bf324b6",
-            "extract_dir": "qaac_3.05\\x64",
+            "url": "https://github.com/nu774/qaac/releases/download/v3.06/qaac_3.06.zip",
+            "hash": "64be9288055f187b89aca1f9a7ca5dadf11d4e7aa1376a1f7c7789b87db66d96",
+            "extract_dir": "qaac_3.06\\x64",
             "bin": [
                 [
                     "qaac64.exe",
@@ -34,9 +34,9 @@
             ]
         },
         "32bit": {
-            "url": "https://github.com/nu774/qaac/releases/download/v3.05/qaac_3.05.zip",
-            "hash": "8a4a589e49880c921e846110632f499dfece34864621450c959085dc0bf324b6",
-            "extract_dir": "qaac_3.05\\x86",
+            "url": "https://github.com/nu774/qaac/releases/download/v3.06/qaac_3.06.zip",
+            "hash": "64be9288055f187b89aca1f9a7ca5dadf11d4e7aa1376a1f7c7789b87db66d96",
+            "extract_dir": "qaac_3.06\\x86",
             "bin": [
                 "refalac.exe",
                 "qaac.exe"
