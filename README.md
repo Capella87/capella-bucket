@@ -103,6 +103,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 
 ### Game Tools
 * Advanced Genie Editor (Tool for Age of Empires II)
+* CryBarEditor (Age of Mythology: Retold resource manager, BAR editor, modding tool)
 * DBPF Viewer (DBPF file viewer for The Sims 2)
 * DepotDownloader (Steam depot downloader)
 * HaCreator (MapleStory level editor)
