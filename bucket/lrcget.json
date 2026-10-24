@@ -1,13 +1,13 @@
 {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "description": "Utility for mass-downloading LRC synced lyrics for your offline music library. ",
     "homepage": "https://github.com/tranxuanthang/lrcget",
     "license": "MIT",
     "notes": "WebView related files are located in $HOME\\AppData\\Roaming\\net.lrclib.lrcget and AppData\\Local\\net.lrclib.lrcget",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tranxuanthang/lrcget/releases/download/2.2.0/LRCGET_2.2.0_x64-setup.exe#/download.7z",
-            "hash": "ef0fa8215b0ba72a7d9f5a3d59d3d6a173fc664a000407bef73237ec058162e3"
+            "url": "https://github.com/tranxuanthang/lrcget/releases/download/2.2.1/LRCGET_2.2.1_x64-setup.exe#/download.7z",
+            "hash": "359fa30d1a662d666af2e993c9c1b2bebefc1de7bc7e5878c25c4d0657baca19"
         }
     },
     "post_install": [
