@@ -1,5 +1,5 @@
 {
-    "version": "8.10.2",
+    "version": "8.10.3",
     "description": "In-memory data structure store, used as a database, cache and message broker (Windows MSYS2 Port)",
     "homepage": "https://redis.io",
     "license": "AGPL-3.0",
@@ -12,9 +12,9 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/redis-windows/redis-windows/releases/download/8.10.2/Redis-8.10.2-Windows-x64-msys2.zip",
-            "hash": "7c8cebd50347eaa1d9e784da842ed47a4f33394637835531d6614777b950ee85",
-            "extract_dir": "Redis-8.10.2-Windows-x64-msys2"
+            "url": "https://github.com/redis-windows/redis-windows/releases/download/8.10.3/Redis-8.10.3-Windows-x64-msys2.zip",
+            "hash": "af16df340525b431e9ec8dabfd625d5e7a233f82805b5418819904ea909c447f",
+            "extract_dir": "Redis-8.10.3-Windows-x64-msys2"
         }
     },
     "bin": [
