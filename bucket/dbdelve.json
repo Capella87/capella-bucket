@@ -1,0 +1,35 @@
+{
+    "version": "0.8.0",
+    "description": "Fast and lightweight DB Client made in Rust and GPUI",
+    "homepage": "https://dbdelve.github.io",
+    "license": "GPL-3.0-only",
+    "notes": "Configuration file is stored on ~/AppData/Roaming/dbdelve",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ShayanAbbas1/dbdelve/releases/download/v0.8.0/dbdelve-0.8.0-windows-x86_64.zip",
+            "hash": "8ae16622b09e0a6f0ff8be4d6b8acbcb6f8c3291de7ef73765824d01954533b3",
+            "extract_dir": "dbdelve-0.8.0-windows-x86_64"
+        }
+    },
+    "bin": "dbdelve.exe",
+    "shortcuts": [
+        [
+            "dbdelve.exe",
+            "DbDelve",
+            "",
+            "dbdelve.exe"
+        ]
+    ],
+    "persist": "plugins",
+    "checkver": {
+        "github": "https://github.com/ShayanAbbas1/dbdelve"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/ShayanAbbas1/dbdelve/releases/download/v$version/dbdelve-$version-windows-x86_64.zip",
+                "extract_dir": "dbdelve-$version-windows-x86_64"
+            }
+        }
+    }
+}

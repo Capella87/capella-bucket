@@ -40,6 +40,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * BLEConsole (Bluetooth Low Energy console)
 * Busybox (Single binary that provides several stripped-down Unix tools in a single executable)
 * Busyboxu (Busybox with native Unicode support for Windows 10 1903 or later)
+* DBDelve (Fast and lightweight DB Client made in Rust and GPUI)
 * Garnet (Cache store faster than Redis)
 * Geolibre (Cloud-native GIS platform)
 * Geoserver (Geospatial data sharing server)
