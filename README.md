@@ -130,6 +130,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * KakaoTalk Adblock (Ad blocker for KakaoTalk Desktop)
 * Libarchive (Compression tool and library)
 * Locale Remulator (Locale Emulator alternative for 64-bit programs)
+* Mubeng (An incredibly fast proxy checker & IP rotator with ease)
 * noMeiryoUI (Meiryo UI font replacement)
 * NoVideo_sRGB (Color calibration tool for NVIDIA GPU)
 * RegCool (Advanced registry editor)
