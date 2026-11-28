@@ -1,0 +1,32 @@
+{
+    "version": "1.10.2",
+    "description": "Keyboard-first terminal email client",
+    "homepage": "https://github.com/allisonhere/tidemail",
+    "license": "MIT",
+    "notes": [
+        "Configuration file is stored on ~/.config/tidemail",
+        "Turn off auto updates in the settings because auto-update of Tidemail does not support Windows."
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/allisonhere/tidemail/releases/download/v1.10.2/tidemail-windows-x86_64.zip",
+            "hash": "d97238fc03ede97208cc37a6dd10570240b1f0321387bec37343e6a1baaae814"
+        },
+        "arm64": {
+            "url": "https://github.com/allisonhere/tidemail/releases/download/v1.10.2/tidemail-windows-aarch64.zip",
+            "hash": "0c275b86c903d68c95ee492cf13954d0fe9e10cb23a439ac559710cfe82d1af4"
+        }
+    },
+    "bin": "tidemail.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/allisonhere/tidemail/releases/download/v$version/tidemail-windows-x86_64.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/allisonhere/tidemail/releases/download/v$version/tidemail-windows-aarch64.zip"
+            }
+        }
+    }
+}

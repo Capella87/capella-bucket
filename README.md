@@ -146,6 +146,7 @@ If you have any problems using my bucket, please open a new issue. The most freq
 * NClass (UML editor written in C#)
 * NovProg (NaNoWriMo Progress Meter)
 * Symphytum (Personal database software for everyone who desires to manage and organize data in an easy and intuitive way)
+* Tidemail (Keyboard-first terminal email client)
 * Zim (Desktop Wiki with GTK)
 
 ### Multimedia
